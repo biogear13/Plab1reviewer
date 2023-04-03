@@ -36,8 +36,9 @@ def random_question(df):
 num_questions=int(input('How many questions do you want to answer?(intiger): '))
 correct_answer=0
 for i in range(num_questions):
+    print(f'Question # {i+1} of {num_questions}')
     self_check=random_question(working_df)
     if self_check=='y':
         correct_answer+=1
 print(f'You got {round(correct_answer/num_questions*100,2)}% correct.')
-working_df.to_csv('plab_chatgpt.csv')
+working_df.to_csv('plab_chatgpt.csv', index=False)
