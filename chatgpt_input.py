@@ -12,7 +12,6 @@ def random_question(df):
     random_number = random.randint(0,len(df))
     while answered.loc[random_number,'answered'] == 'y':
         random_number = random.randint(0,len(df))
-    answered.loc[random_number,'answered'] == 'y'
     print(f'Index is {random_number}')
     print(df['question'][random_number])
     print(df['a'][random_number])
@@ -33,10 +32,13 @@ def random_question(df):
     if df['j'][random_number]!='nan':
         print(df['j'][random_number])
     x = input('What is your answer?: ').lower()
-    print(f"The key is {df.loc[random_number,'key_letter']}")
+    print(f"The key is {df.loc[random_number,'gpt_letter']}")
     print(df.loc[random_number, 'chat'])
+    answered.at[random_number,'answered'] = 1
+    print(answered.loc[random_number,'answered'])
     answered.to_csv('answered.csv', index=False)
-    if x==df.loc[random_number,'key_letter']:
+    print(f"total reviewed question: {answered['answered'].notnull().sum()}")
+    if x==df.loc[random_number,'gpt_letter']:
         return 'y'
 num_question=1
 correct_answer=0
