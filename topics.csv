@@ -1,4356 +1,4356 @@
-Count
-54
-40
-38
-34
-33
-25
-25
-22
-21
-20
-20
-20
-19
-18
-17
-17
-16
-16
-16
-16
-15
-15
-15
-15
-14
-14
-14
-14
-14
-14
-13
-13
-13
-13
-13
-13
-13
-13
-13
-12
-12
-12
-12
-12
-12
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-11
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-10
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-9
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-8
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-7
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-6
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-5
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-4
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-3
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-2
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
-1
+Correction,Count
+ct,54
+cxr,40
+mri,38
+reassure,34
+ultrasound,33
+none,25
+antibiotics,25
+combined oral contraceptive pill,22
+diazepam,21
+us abdomen,20
+ecg,20
+iv fluids,20
+schizophrenia,19
+reassurance,18
+cognitive behavioral therapy,17
+tuberculosis,17
+pulmonary embolism,16
+sarcoidosis,16
+lymphoma,16
+cushing’s syndrome,16
+generalized anxiety disorder,15
+blood culture,15
+colonoscopy,15
+thryroid function test,15
+subarachnoid hemorrhage,14
+bipolar affective disorder,14
+mri brain,14
+aspirin,14
+immune thrombocytopenic purpura,14
+ct brain,14
+haloperidol,13
+esophageal carcinoma,13
+abdominal us,13
+ct head,13
+arterial blood gas,13
+complete blood count,13
+supraventricular tachycardia,13
+liver function test,13
+ectopic pregnancy,13
+erythrocyte sedimentation rate,12
+paracetamol,12
+laparoscopy,12
+lithium,12
+mania,12
+ace inhibitor,12
+leukemia (chronic myeloid),11
+bronchoscopy,11
+echocardiogram,11
+ventricular tachycardia,11
+insulin,11
+disseminated intravascular coagulation,11
+hyperthyroidism,11
+obsessive-compulsive disorder,11
+cardiac tamponade,11
+myocardial infarction,11
+leukemia(acute lymphoblastic),11
+disulfiram,11
+cytomegalovirus,11
+deep vein thrombosis,11
+fluoxetine,11
+ramipril,11
+huntington’s disease,10
+psychotic depression,10
+laparotomy,10
+citalopram,10
+scabies,10
+xr,10
+leukemia(acute myeloid),10
+urinary tract infection,10
+ulcerative colitis,10
+ventricular septal defect,10
+tension pneumothorax,10
+lichen planus,10
+henoch-schonlein purpura,10
+atrial fibrilation,10
+thiamine,10
+transvaginal ultrasound,10
+antipsychotics,10
+pneumonia,10
+achalasia,9
+beta blockers,9
+mycoplasma,9
+intravenous urogram,9
+intrauterine contraceptive device,9
+leukemia (chronic lymphoblastic),9
+meningitis,9
+analgesia,9
+depression,9
+nsaids,9
+pop,9
+post traumatic stress disorder,9
+borderline personality disorder,9
+delirium tremens,9
+pneumothorax,9
+cerebellum,9
+electroconvulsive therapy,9
+hemolytic uremic syndrome,9
+bronchiectasis,8
+ct abdomen,8
+brain stem,8
+severe depression,8
+pneumocystis pneumonia,8
+systemic lupus erythematosus,8
+staphylococcus aureus,8
+punch biopsy,8
+pheochromocytoma,8
+otitis externa,8
+iron-deficiency anemia,8
+panic disorder,8
+asd,8
+patent ductus aretia,8
+amitriptyline,8
+pelvic inflammatory disease,8
+klebsiella,8
+hyponatremia,8
+hypoglycemia,8
+barium meal,8
+barium swallow,8
+hypocalcemia,8
+tetralogy of fallot,8
+bendroflumethiazide,8
+crohns disease,8
+eeg,8
+polycystic ovary syndrome,8
+eczema,8
+atenolol,8
+foreign body,8
+psoriasis,8
+metronidazole,8
+streptococcus,8
+pharyngeal pouch,7
+missed abortion,7
+dysthymia,7
+delusion of persecution,7
+laryngoscopy,7
+upper gi endoscopy,7
+pyelonephritis (acute),7
+macular degeneration,7
+chlordiazepoxide,7
+multiple myeloma,7
+facial nerve,7
+pericarditis,7
+multiple sclerosis,7
+premature ovarian failure,7
+hyperkalemia,7
+mumps,7
+cotard syndrome,7
+femoral hernia,7
+thrombotic thrombocytopenic purpura,7
+anti depressants,7
+otitis media,7
+irritable bowel syndrome,7
+cd,7
+celiac disease,7
+down’s syndrome,7
+cornea,7
+anal fissure,7
+skull xr,7
+xr skull,7
+amlodipine,7
+optic nerve,7
+digoxin,7
+g6pd deficiency,7
+alzheimer’s disease,7
+atrial fibrillation,7
+erythromycin,7
+herpes zoster,7
+pons,7
+wernicke’s encephalopathy,7
+acamprosate,7
+subdural hemorrhage,7
+cerobrospinal fluid analysis,7
+uterine artery embolization,7
+hellp syndrome,6
+rheumatoid arthritis,6
+asthma,6
+cystoscopy,6
+von willebrand's disease,6
+endometriosis,6
+atrial flutter,6
+extracorporeal shock wave lithotripsy,6
+cholecystitis,6
+iga nephropathy,6
+endoscopy,6
+ibuprofen,6
+mri spine,6
+motor neuron disease,6
+acoustic neuroma,6
+warfarin,6
+social phobia,6
+good pasture’s syndrome,6
+endometrial ablation,6
+gout,6
+furosemide,6
+clopidogrel,6
+aortic ln,6
+anti centromere,6
+anti ds dna,6
+trigeminal nerve,6
+24h ecg,6
+otitis media (acute),6
+transient ischemic attack,6
+ovarian torsion,6
+fragile x syndrome,6
+copper intrauterine contraceptive device,6
+glossopharyngeal nerve,6
+fine-needle aspiration cytology,6
+analgesics,6
+psychosis,6
+v/q scan,6
+meniere’s disease,6
+doxycycline,6
+dressler’s syndrome,6
+amoxicillin,6
+epilepsy,6
+clozapine,6
+ventricular fibrillation,6
+hypernatremia,6
+pre-aortic ln,6
+sweat test,6
+ventricular ectopics,6
+selective serotonin reuptake inhibitor,6
+hemothorax,6
+hiv,6
+pick’s dementia,6
+preeclampsia,6
+verapamil,6
+benign prostatic hyperplasia,6
+pregnancy,6
+legionella,6
+hypercalcemia,6
+naloxone,6
+somatization,6
+vascular dementia,6
+mri head,6
+surgery,6
+endocervical swab,6
+giant cell arteritis,6
+measles,6
+circumflex artery,6
+cervical smear,6
+ct scan,6
+otosclerosis,5
+high vaginal swab,5
+cellulitis,5
+chronic obstructive pulmonary disease,5
+appendicitis,5
+folate deficiency,5
+cataract,5
+strangulated hernia,5
+placental abruption,5
+cerebral tumor,5
+ca 125,5
+paget’s disease,5
+aortic regurgitation,5
+polycythemia,5
+pulmonary stenosis,5
+sinus tachycardia,5
+sepsis,5
+prostate carcinoma,5
+submental ln,5
+submandibular ln,5
+bronchiolitis,5
+pyelonephritis (chronic),5
+diuretic,5
+iris,5
+iritis,5
+heparin,5
+transpyloric plane,5
+biguanides,5
+skeletal survey,5
+coag profile,5
+staphylococcus,5
+hypoglossal nerve,5
+prednisolone,5
+inguinal ln,5
+imipramine,5
+hydrocele,5
+glaucoma,5
+iliac ln,5
+hemophilia,5
+pericarditis (acute),5
+testicular tumor,5
+chlamydia pneumonia,5
+hematoma,5
+basic metabolic panel or electrolyte panel,5
+hysterectomy,5
+hypothyroidism,5
+hypoparathyroidism,5
+gastric carcinoma,5
+stroke,5
+thyroid carcinoma,5
+thyroid storm,5
+penicillin,5
+conn’s disease,5
+parkinsonism,5
+htn retinopathy,5
+renal biopsy,5
+cardiac failure,5
+ciliary body,5
+subdural hematoma,5
+conjunctivitis,5
+external iliac ln,5
+drug toxicity,5
+progressive massive fibrosis,5
+buerger’s disease,5
+impetigo,5
+radial nerve,5
+chicken pox,5
+placental abruption secondary to preeclampsia,5
+deep cervical ln,5
+agoraphobia,5
+olanzapine,5
+oculomotor nerve,5
+varicella zoster,5
+us kub,5
+varicocele,5
+corticosteroids,5
+dialysis,5
+adenosine,5
+dengue fever,5
+vit b complex,5
+liver failure,5
+cystic fibrosis,5
+mirena,5
+anemia of chronic disease,5
+addison's disease,5
+d-dimer,5
+kaposi’s sarcoma,5
+nai,5
+methadone,5
+alpha 1 antitrypsin deficiency,5
+alteplase,5
+linea alba,5
+migraine,5
+dinner fork deformity,5
+malaria,5
+magnetic resonance cholangiopancreatography,5
+non-hodgkin lymphoma,5
+vagus nerve,5
+ct chest,5
+median nerve,5
+ulnar nerve,5
+galactosemia,4
+diaphragmatic rupture,4
+mefenemic acid,4
+gabapentin,4
+diabetic ketoacidosis,4
+capgras syndrome,4
+rectus sheath muscle,4
+primary pph,4
+computed tomography pulmonary angiography,4
+garden spade deformity,4
+left ventricular aneurysm,4
+testicular torsion,4
+ganser syndrome,4
+esophageal spasm,4
+orchitis,4
+furuncle,4
+left ant descending artery,4
+hypochondriasis,4
+costochondritis,4
+congenital hypothyroidism,4
+percutaneous nephrolithotomy,4
+korsakoff psychosis,4
+myasthenia gravis,4
+im adrenaline,4
+ceftriaxone,4
+allergic reaction,4
+reactive arthritis,4
+threatened abortion,4
+ceasarian section,4
+prostate cancer,4
+propranolol,4
+axillary nerve,4
+unilateral recurrent laryngeal nerve injury,4
+proliferative dm retinopathy,4
+sclera,4
+cardiotocography,4
+hypomania,4
+cardiac enzymes,4
+barium enema,4
+pharyngeal carcinoma,4
+uremia,4
+stellate ganglion,4
+barrier method,4
+pharyngeal ca,4
+urine for c&s,4
+primary biliary cirrhosis,4
+gastric lavage,4
+hepatitis (acute),4
+reference,4
+epididymo-orchitis,4
+lofepramine,4
+hep b,4
+coagulation profile,4
+refer to speech therapist,4
+dexa scan,4
+coarction of the aorta,4
+losartan,4
+endoscopic retrograde cholantiopancreatography,4
+cocaine,4
+pleural effusion,4
+dermatitis herpetiformis,4
+vancomycin,4
+guilt,4
+plummer vinson syndrome,4
+pneumococcal pneumonia,4
+breast abscess,4
+breast ca,4
+acid-fast bacilli stain,4
+uterine rupture,4
+nebulized salbutamol,4
+polymyalgia rheumatic,4
+nasopharyngeal ca,4
+c1 esterase deficiency,4
+embolus,4
+placental previa,4
+diabetes mellitus,4
+stool culture,4
+delusion of reference,4
+ectropion,4
+hormone replacement therapy,4
+myomectomy,4
+cluster headache,4
+dementia,4
+cryptococcal infection,4
+biliary atresia,4
+calcium channel blocker,4
+adenomyosis,4
+biopsy,4
+blood sugar,4
+electrolyte imbalance,4
+bisphosphonates,4
+right coronary artery,4
+herpes zoster infection,4
+streptococcus pneumonia,4
+streptokinase,4
+placenta previa,4
+ca 153,4
+systemic sclerosis,4
+blood for c&s,4
+depo provera,4
+pseudogout,4
+bronchial carcinoma,4
+thyroid cyst,4
+arrange hearing test,4
+wegener’s granulomatosis,4
+inhaled steroid,4
+renal failure,4
+inguinal hernia,4
+extradural hematoma,4
+angiography,4
+inflammatory bowel disease,4
+oral antibiotics,4
+cervical ca,4
+direct inguinal hernia,4
+infection toxicity,4
+delusion of control,4
+infection,4
+respiratory distress syndrome,4
+cholesteatoma,4
+otitis media with effusion,4
+smoking,4
+mitral stenosis,4
+sinus squamous cell carcinoma,4
+otoscopy,4
+spondylosis,4
+external laryngeal nerve injury,4
+extrinsic allergic alveolitis,4
+oxygen,4
+chemotherapy,4
+100% oxygen,4
+pyelonephritis,4
+fatty liver of pregnancy (acute),4
+delirium,4
+femoral aneurysm,4
+toxoplasmosis,4
+mikulicz’s disease,4
+femoral nerve,4
+intercostal muscles,4
+pan retinal photocoagulation,4
+atrial thrombus,4
+iv morphine,4
+aplastic anemia,4
+fentanyl patch,4
+pulse oximetry,4
+chlamydia psitacci,4
+fibroadenoma,4
+cerebral cortex,4
+tracheomalacia,4
+churg-strauss syndrome,4
+iv calcium gluconate,4
+tricyclic antidepressants,4
+duct ectasia,4
+deep inguinal ring,4
+anti jo1,4
+rubella,4
+conjoined tendon,4
+osteoporosis,4
+pelvic us,4
+anti ro,4
+digeorge syndrome,4
+pseudomonas,4
+incision and drainage,4
+thyrotoxicosis,4
+pelvic ct,4
+delusion of grandeur,4
+duct papilloma,4
+amiodarone,4
+ankylosing spondilytis,4
+iv antibiotics,4
+central retinal vein occlosion,4
+ischemic mitral regurgitation,4
+ciprofloxacin,3
+facial xr,3
+moderate depression,3
+xr abdomen,3
+mood stabilizers,3
+polymyositis,3
+bronchitis,3
+sulfonylurea,3
+ca 199,3
+desensitization,3
+wilson’s disease,3
+sulfasalazine,3
+salpingitis,3
+exploratory laparotomy,3
+minimal change gn,3
+epidydimal cyst,3
+radionuclide bone scan,3
+stress disorder (acute),3
+glomerulonephritis,3
+external iliac muscle,3
+bulbar palsy,3
+mitral valve prolapse,3
+abdominal xr,3
+mallet finger,3
+co-codamol,3
+abdominal myomectomy,3
+defer immunization for 2wks,3
+buccal prochlorperazine,3
+pontine hemorrhage,3
+radiotherapy,3
+malabsorption,3
+naltrexone,3
+chlorpromazine,3
+risperidone,3
+morphine,3
+extradural hemorrhage,3
+sodium cromoglycate,3
+endoscopic diverticulectomy,3
+glucose,3
+granulocyte without blast cells,3
+h. influenza,3
+dacrocystitis (acute),3
+mitral regurgitation,3
+spinal cord compression,3
+give paracetamol with future doses of the same vaccine,3
+cerebellar hemorrhage,3
+simple pneumothorax,3
+carotid doppler,3
+rectal carcinoma,3
+fronto-temporal dementia,3
+prolactinoma,3
+fundoscopy,3
+myocardial infarction (inferior),3
+essential htn,3
+squamous cell laryngeal ca,3
+myocardial infarction (lateral),3
+squamous cell carcinoma,3
+ruptured papillary muscle,3
+myocardial infarction (nstemi),3
+cerebral abscess,3
+metoprolol,3
+accessory nerve,3
+prader-willi syndrome,3
+sigmoid volvulus,3
+munchausen syndrome,3
+musculocutaneous nerve,3
+central retinal artery occlusion,3
+mycobacterium avium,3
+central scotoma,3
+pseudomonas aeruginosa,3
+mycobacterium tb,3
+myocardial infarction (anterior),3
+reactionary hemorrhage,3
+mesothelioma,3
+mycoplasma pneumonia,3
+myelofibrosis,3
+prostate-specific antigen,3
+delusion of guilt,3
+simvastatin,3
+flexor digitorum profundus,3
+1:4,3
+shingles,3
+cervical/vaginal trauma,3
+gastroscopy,3
+ranula,3
+medulla,3
+exostosis,3
+gentamicin,3
+mcburney’s point,3
+psychosis (acute),3
+cubitus valgus,3
+femoral artery,3
+check child protection register,3
+febrile convulsion,3
+give half dose of vaccine,3
+mastoditis (acute),3
+fibroadenosis,3
+candida infection,3
+midstream urine,3
+midbrain,3
+cyclothymia,3
+fibroids,3
+steroids,3
+clang association,3
+myocardial infarction (posterior),3
+carcinoembryonic antigen,3
+cerebrum,3
+proceed with standard immunization schedule,3
+cerebrospinal fluid,3
+fx ribs,3
+1:16,3
+membranous gn,3
+1:2,3
+meningioma,3
+hep a,3
+sjogren’s syndrome,3
+ebstein-barr virus,3
+sciatica,3
+peripheral vascular disease,3
+hypopharyngeal tumor,3
+hypothalamic amenorrhea,3
+scleral buckling,3
+tramadol,3
+thiazide,3
+serum bhcg,3
+antispasmodics,3
+hysteroscopy,3
+septal abscess,3
+pericardial effusion,3
+duramater,3
+thought block,3
+perforation of eardrum,3
+packing,3
+thought insertion,3
+intrauterine system,3
+pernicious anemia,3
+congenital diaphragmatic hernia,3
+cone biopsy,3
+truss,3
+cricoid cartilage,3
+tubal pregnancy,3
+left paracolic gutter,3
+concealed hemorrhage,3
+persecutory,3
+tetracycline,3
+serum calcium,3
+normal pressure hydrocephalus,3
+hypoalbuminemia,3
+thalassemia,3
+trans rectal us,3
+basal cell carcinoma,3
+barrett’s esophagus,3
+lawrence moon biedel syndrome,3
+sciatic nerve,3
+alcohol withdrawal,3
+diencephalon,3
+im,3
+intubation and ventilation,3
+intermittent claudication,3
+iv steroids,3
+septal hematoma,3
+tonsillitis,3
+indirect inguinal hernia,3
+inevitable abortion,3
+topical estrogen,3
+cortical blindness,3
+turner’s syndrome,3
+tourette’s syndrome,3
+retained product,3
+amyloidosis,3
+anal abscess,3
+paracentral scotoma,3
+coronary sinus,3
+anal hematoma,3
+total parenteral nutrition,3
+panic attacks,3
+aspiration pneumonitis,3
+core biopsy,3
+thromboangitis obliterans,3
+aortic stenosis,3
+retinal detachment,3
+audiometry,3
+serum amylase,3
+keratitis,3
+open surgery,3
+atopic eczema,3
+immediate surgery,3
+atonic uterus,3
+kawasaki disease,3
+atheroma,3
+congenital viral infection,3
+iv insulin,3
+anaphylaxis,3
+jejunal biopsy,3
+optic neuritis,3
+pelvic cavity,3
+seasonal affective disorder,3
+don’t give vaccine,3
+hyperparathyroidism,3
+lesser sac,3
+antepartum hemorrhage,3
+surgical extraction of lens,3
+acyclovir,3
+refer to social services,3
+anorexia nervosa,3
+osteosarcoma,3
+ankylosing spondylitis,3
+long acting beta agonist,3
+rh incompatibility,3
+cryptosporidium,3
+nihilistic,3
+trigeminal neuralgia,3
+plasma cells,3
+dm background,3
+embolism,3
+syringomyelia,3
+leukemia,3
+blood glucose,3
+ln biopsy,3
+pleomorphic adenoma,3
+acute marginal branch,3
+low molecular weight heparin,3
+hemochromatosis,3
+hallucination,3
+lymphedema,3
+hba1c,3
+endometritis,3
+oral steroid,3
+lung cancer,3
+lumbar puncture,3
+endometrial ca,3
+uterine infection,3
+branch retinal artery occlusion,3
+pleurisy,3
+endometrial biopsy,3
+osteoarthritis,3
+"low na+, normal k+",3
+"low na+, low k+",3
+iv dextrose,3
+activated charcoal,3
+nifedipine,3
+dissecting aneurysm,3
+heroine,3
+"high na+, low k+",3
+physiotherapy,3
+ekbom syndrome,3
+phobia,3
+urine microscopy,3
+antibiotic po,3
+homonymous lower quadrantanopia,3
+homonymous upper quadrantanopia,3
+croup,3
+tens,3
+iritis (acute),3
+tensilon test,3
+iv furosemide,3
+benzylpenicillin,3
+ovarian ca,3
+lewy body dementia,3
+elective herniotomy,3
+continue regular child care,3
+appendicitis (acute),3
+herpes simplex virus,3
+electromyography,3
+bisoprolol,3
+pituitary adenoma,3
+adenoid cystic carcinoma,3
+herpes simplex,3
+"high na+, high k+",3
+blast cells,3
+oral oxycodone,3
+diphtheria,2
+dormier basket,2
+dipyridamole 200mg,2
+dipyridamole,2
+repeat xr,2
+retained poc,2
+right trochlear,2
+disease-modifying antirheumatic drugs,2
+doxazosin,2
+retained placenta,2
+diverticulitis,2
+dosulepin,2
+exploratory laparoscopy,2
+repeat vaginal examination in 4h,2
+dm retinopathy,2
+diverticular disease,2
+right oculomotor,2
+exploratory surgery,2
+renal vein thrombosis,2
+renal failure (chronic),2
+endomyseal/alpha glidin antibody,2
+dressing,2
+dilated cardiomyopathy,2
+erysipelas,2
+erotomania,2
+diabetes mellitus type 2,2
+refer to burn unit,2
+diabetes mellitus type 1,2
+regular salbutamol and budesonide,2
+elective herniorrhaphy,2
+epiglottitis,2
+dental abscess,2
+dental caries,2
+dextrose,2
+right abducens,2
+refer to gp,2
+epidural anesthesia,2
+epididymitis,2
+refer to surgeon,2
+epididymal cyst,2
+rhabdomyosarcoma,2
+endoscopy and biopsy,2
+dermatomyositis,2
+rheumatic mitral valve stenosis,2
+refer to psychologist,2
+desmopressin,2
+erythema marginatum,2
+diabetic background,2
+erythema nodosum,2
+duodenal atresia,2
+drug induced,2
+delusion of doubles,2
+drug induced personality disorder,2
+raynaud’s phenomenon,2
+dilatation of the les,2
+drug induced psychosis,2
+drug reaction,2
+duchenne’s md,2
+extensor carpi ulnaris,2
+ewing’s sarcoma,2
+dvt 2yrs ago,2
+delusion of nihilism,2
+retrobulbar neuritis,2
+reassure and send home,2
+diazipoxide,2
+endomyseal antibodies,2
+ear infection,2
+esophageal varices,2
+diarrhea,2
+rett syndrome,2
+diagonal branch,2
+ecstasy,2
+diazepam iv,2
+ear wax,2
+extensor digitorum,2
+occipital lobe,2
+iv phenytoin,2
+iv ppi,2
+iv salbutamol,2
+oral amoxicillin,2
+oral acyclovir,2
+optic radiation,2
+optic disc,2
+optic chiasma,2
+karyotyping,2
+keratocanthoma,2
+labor,2
+omeprazole,2
+olfactory nerve,2
+large placental site,2
+pancreatitis,2
+obstetric cholestasis,2
+observe,2
+observation only,2
+observation,2
+lateral peroneal nerve,2
+laxatives,2
+numerous blast cells,2
+nuclear bone scan,2
+nothing can be done,2
+"left main stem, post descending artery",2
+normal finding,2
+normal,2
+left trochlear,2
+iv penicillin,2
+oral antibiotics and discharge,2
+oral antihistamine,2
+oral ciprofloxacin,2
+interferon,2
+palate,2
+interstitial lung disease,2
+intracerebral hemorrhage,2
+intrauterine fetal demise,2
+intravenous immunoglobulin,2
+intubation,2
+iron def,2
+irreducible hernia,2
+otitis media (chronic supporative),2
+otitis media  (chronic),2
+ischemic colon,2
+otitis externa (acute),2
+osteomalacia,2
+iv adrenaline,2
+oropharyngeal malignancy,2
+iv antiemetics,2
+oral steroids,2
+iv diazepam,2
+iv fluid,2
+iv fluid infusion,2
+oral morphine,2
+oral hypoglycemic,2
+oral flupenphenazine,2
+iv heparin,2
+iv hydrocortisone,2
+iv insulin + dextrose,2
+legionella pneumophilia,2
+lidocaine,2
+limb ischemia,2
+"na+=140mmol/l, k+=4.5mmol/l",2
+mature teratoma,2
+maturity-onset diabetes of the young,2
+n-acetylcystine,2
+myringitis,2
+myofacial pain,2
+mefloquine,2
+myoclonic,2
+melanoma,2
+membranous glomerulonephropathy,2
+meningococcal meningitis,2
+methotrexate,2
+mgso4 bolus,2
+mi 2 months ago,2
+microcytes,2
+micturating cystourethrogram,2
+mid cerebral artery,2
+mri of internal auditory meatus,2
+mild depression,2
+mini pill,2
+minimal change disease,2
+mirena coil,2
+miscarriage,2
+mri abdomen,2
+mobitz type 1 2nd degree heart block,2
+mod depression,2
+molluscum contagiosum,2
+mono-ocular field loss,2
+mature lymphocytes,2
+"na+=150mmol/l, k+=3.5mmol/l",2
+limb ischemia (acute),2
+marfans syndrome,2
+no tx,2
+no treatment,2
+liposarcoma,2
+liver,2
+neuropathic ulcer,2
+nesseria meningitides,2
+nephrotic syndrome,2
+nephrostomy,2
+long thoracic nerve,2
+lorazepam,2
+low mood,2
+"low na+, high k+",2
+"low serum na, high serum osmolarity, high urine osmolarity",2
+"low serum na, low serum osmolarity, high urine osmolarity",2
+lsd,2
+lyme disease,2
+lymphangioma,2
+lymphogranuloma venereum,2
+nasal polyp,2
+malignancy,2
+malignant melanoma,2
+malingering,2
+mallory-weiss tear,2
+mammary duct fistula,2
+mammography,2
+mancheusens,2
+mantoux test,2
+pancoast tumor,2
+pancreatitis (acute),2
+extensor indicis,2
+glitazone,2
+gardenella,2
+primary hemorrhage,2
+gastric washing,2
+gastroenteritis,2
+preterm labor,2
+pressure ulcer,2
+genetic testing and counselling,2
+genu valgus,2
+presbycusis,2
+gilbert’s syndrome,2
+pre-implantation genetic dx,2
+postural hypotension,2
+poststreptococcal glomerulonephritis,2
+gluteal nerve,2
+inner ear,2
+glycerine suppository,2
+goiter,2
+post pill amenorrhea,2
+gram +ve diplococci in sputum,2
+gram +ve diplococcic,2
+gram -ve diplococci in sputum,2
+grandeur,2
+portal htn,2
+portable xr,2
+grave’s disease,2
+gun stock deformity,2
+hairy leukoplakia,2
+hallpikes maneovure,2
+primary hyperparathyroidism,2
+primary obesity,2
+game keeper thumb,2
+proguanil,2
+extensor pollicis brevis,2
+extensor pollicis longus,2
+external iliac,2
+external rotation,2
+radioactive thyroid scan,2
+quinine,2
+fam hx,2
+pyridoxine,2
+fat necrosis,2
+fetal scalp blood sample,2
+pulmonary regurgitation,2
+fibroid uterus,2
+fibular fx,2
+flight of ideas,2
+flucloxacillin,2
+fluconazole,2
+fluid retention,2
+folic acid,2
+pseudo depression,2
+folliculitis,2
+forceps,2
+prostatitis,2
+fregoli syndrome,2
+fresh frozen plasma,2
+prophylactic antibiotics,2
+fungal infection,2
+furosemide iv,2
+polyarteritis nodosa,2
+head injury,2
+headache,2
+hypnogogic hallucinations,2
+hypokalemia,2
+permethrin,2
+peripheral iridectomy,2
+hysteria,2
+perinuclear anti-neutrophil cytoplasmic antibody,2
+i&d + antibiotics,2
+ice cream and cold fluids,2
+ice packs,2
+perforated diverticulum,2
+im morphine,2
+peptic ulceration,2
+peptic stricture,2
+immunoglobulin,2
+impacted earwax,2
+impaired glucose tolerance,2
+pelvic inflammatory disease (acute),2
+incomplete abortion,2
+incongruent affect,2
+pelvic congestion syndrome,2
+increase fluid intake,2
+peak flow rate diary,2
+passes through the deep inguinal ring,2
+inf mono,2
+partial complex seizure,2
+infective,2
+inform police,2
+parietal cortex,2
+hypochondriac,2
+hyperuricemia,2
+pneumocystis jerovici,2
+hypertensive retinopathy,2
+pneumocystis carinii infection,2
+pneumocystis carinii in sputum,2
+hematocele,2
+hematometrium,2
+pleural biopsy,2
+hemolytic anemia,2
+hemophilia a,2
+hemophilia b,2
+hemorrhoids,2
+hep c,2
+hepatic encephalopathy,2
+hepatoma,2
+hereditary spherocytosis,2
+hiatus hernia,2
+round ligament stretching,2
+high fibre diet,2
+"high serum na, high serum osmolarity, low urine osmolarity",2
+"high serum na, low serum osmolarity, high urine osmolarity",2
+phosphate enema,2
+hiv associated dementia,2
+hiv infection,2
+hodgkin’s lymphoma,2
+homonymous hemianopia,2
+phenelzine,2
+htn,2
+hydralazine iv,2
+pet brain,2
+pilocarpine eye drops,2
+monoamine oxidase inhibitors,2
+autosomal recessive,2
+coagulase +ve cocci in sputum,2
+breast,2
+clotting screen,2
+suprapubic catheter,2
+co-amoxiclav,2
+coag screening,2
+coagulase +ve cocci,2
+branchial cyst,2
+branch retinal vein occlusion,2
+breast milk jaundice,2
+aph,2
+acquired cholesteatoma,2
+brain tumor,2
+uterine fibroid,2
+coal tar,2
+brain metastasis,2
+toxoplasma abscess,2
+acute respiratory failure,2
+us scrotum,2
+colles fx,2
+sickle cell,2
+sigmoidoscopy,2
+sickle cell disease,2
+adenolymphoma,2
+antinuclear antibody,2
+clindamycin,2
+anxiety,2
+adenocarcinoma,2
+bronchitis (chronic),2
+acyclovir po,2
+urine protein,2
+sulfonylurea receptor binder,2
+broca’s aphasia,2
+anxiolytics,2
+us breast,2
+closed-angle glaucoma (acute),2
+aortic dissection,2
+toxic confusional state,2
+serum uric acid,2
+antihistamine po,2
+congenital cholesteatoma,2
+congenital,2
+vena cava opening into the diaphragm,2
+syringing,2
+congenital adrenal hyperplasia,2
+venous stasis ulcer,2
+artesunate,2
+blood transfusion,2
+congenital cystic adenomatoid malformation,2
+serum calcium concentration,2
+congenital storage disorder,2
+ventricular aneurysm,2
+congestive heart failure,2
+blood,2
+conjunctiva,2
+conjunctivitis (acute),2
+serum alp concentration,2
+vasculitis,2
+vasa previa,2
+serum urea,2
+complete heart block,2
+colorectal carcinoma,2
+uveitis,2
+sweat chloride test,2
+vaccine only,2
+vaginal ca,2
+vaginal exam,2
+syphilis,2
+vaginal swab,2
+varicose vein,2
+absence seizures,2
+serum glucose,2
+compound fx,2
+vaginal us,2
+serum estradiol,2
+serum electrolytes,2
+arterial ischemia ulcer,2
+adjustment disorder,2
+clarithromycin,2
+takayasu arteritis,2
+under the diaphragm,2
+tubo-ovarian abscess,2
+allergic rhinitis,2
+tropical sprue,2
+cerebellar abscess,2
+cerebellar degeneration,2
+calcium resonium,2
+squamous cell,2
+sputum for afb,2
+tubular necrosis (acute),2
+cerebral infarct,2
+cerebral malaria,2
+ant cerebral artery,2
+tricuspid regurgitation,2
+calcium gluconate,2
+spontaneous pneumothorax,2
+cervical ectropion,2
+caloric testing,2
+start cpr,2
+calcium,2
+anal tags,2
+amoxicillin po,2
+ampicillin,2
+cardiac arrhythmia,2
+stereotactic biopsy,2
+aminophylline,2
+cardiovascular syphilis,2
+turn pt and put in recovery position,2
+steroid po,2
+alpha-fetoprotien,2
+statin and acei,2
+carcinoma,2
+tunnel vision,2
+carpal tunnel syndrome,2
+capillary blood sugar,2
+alprazolam,2
+candida albicans,2
+stop warfarin,2
+spirometry,2
+admission for observation,2
+adrenal insufficiency,2
+agranulocytosis,2
+traumatic rupture of aorta,2
+trauma,2
+social anxiety,2
+urgent hemodialysis,2
+chondrosarcoma,2
+urgent herniorrhaphy,2
+admit and iv antibiotics,2
+uretric calculus,2
+chronic villous sampling,2
+bullous pemphigus,2
+admit,2
+urinary tract injury,2
+bulimia nervosa,2
+transfer to itu,2
+antifungals,2
+anti scl 70,2
+urethral catheter,2
+trichotillomania,2
+cheek,2
+aldosterone,2
+spiral fx,2
+trichomonas,2
+upper respiratory tract infection,2
+strep pyogenes,2
+streptococcus fecalis,2
+spermatocele,2
+ureteric calculus,2
+space occupying lesion,2
+alcohol dependence,2
+chest drain,2
+ca breast,2
+anti histone,2
+stress test,2
+anti la,2
+alcohol,2
+bladder stones,2
+brain,2
+amniocentesis,2
+cortisol,2
+saphenavarix,2
+corticosteroid,2
+benzodiazepines,2
+saphena varix,2
+tension headache,2
+ct neck,2
+thyroid swelling,2
+secondary,2
+basal ganglia,2
+basal cell,2
+salmetrol,2
+ct thorax,2
+secondary hemorrhage,2
+secondary postpartum hemorrhage,2
+conversion disorder,2
+conversion,2
+temporomandibular joint pain,2
+24h bp monitoring,2
+controlled atrial fib,2
+temporal lobe,2
+salbutamol,2
+vit k deficiency,2
+temporal artery biopsy,2
+control,2
+atypical depression,2
+secure airway,2
+xr kub,2
+wolff-parkinson-white syndrome,2
+benign positional vertigo,2
+seminoma,2
+voluntary admission to psychiatry ward,2
+bence-jones protein,2
+wernicke’s aphasia,2
+cryptogenic organizing,2
+testicular ca,2
+benign essential tremor,2
+assess developmental milestones,2
+schizoaffective disorder,2
+assess development milestones,2
+termination of the spinal cord,2
+constipation,2
+whipple’s disease,2
+scarlet fever,2
+schizoid personality,2
+coxsackie virus,2
+whole blood,2
+termination of pregnancy,2
+scaphoid fx,2
+scleritis,2
+sc adrenaline,2
+1:8,2
+testosterone,2
+benign paroxysmal positional vertigo,2
+tibial nerve,2
+atherosclerosis,2
+cotrimazole,2
+atonic seizure,2
+1st tracheal cartilage,2
+cytoplasmic antineutrophil cytoplasmic antibody,2
+controlled asthma,2
+cryptococcus neoformans,2
+rubella and syphilis,2
+vit d,2
+vit b12 def,2
+tb adenitis,2
+tonsillectomy,2
+vertebrobasilar insufficiency,2
+bitemporal hemianopia,2
+4g mgso4 in 100ml 0.9%ns in 5mins,2
+rubella virus,2
+thought withdrawal,2
+danazol,2
+septal branches,2
+thyroglossal cyst,2
+bladder ca,2
+contact dermatitis,2
+2g mgso4 iv bolus,2
+xr spine,2
+auto antibodies,2
+rupture uterus,2
+b12 deficiency,2
+tonsillitis follicular (acute),2
+vestibule-cochlear nerve,2
+biliary colic,2
+osteod osteoma,1
+perforated peptic ulcer,1
+oral chlorpheniramine,1
+osler weber reindu syndrome,1
+trial of cpap,1
+oral bisphosphonates,1
+perforation,1
+penicillin oral,1
+perforated meckel’s diverticulum,1
+oral chlorpheneraime,1
+osteodosteoma,1
+penicillin + flucloxacillin,1
+osteogenesis imperfect,1
+oral carcinoma,1
+oral antibiotics and topical estrogen,1
+oral beta-blockers,1
+thought broadcasting,1
+peribulbar lignocaine,1
+thyrotoxin,1
+turners syndrome,1
+pemphigoid,1
+treat with antibiotics,1
+trendelenburg test,1
+otitis externa (malignant),1
+treponema palladium antibody test,1
+thoracoscopy,1
+othello syndrome,1
+pemphigus vulgaris,1
+though broadcasting,1
+otc antihistamine,1
+osteosarcomoa,1
+treponema pallidum,1
+turn the child on his back and give thumps,1
+oral antibiotics + discharge,1
+osteoporotic fx verterbra,1
+thyroidectomy,1
+osteoporotic fx vertebra,1
+osteoporotic fx of vertebre,1
+peribulbar acupuncture,1
+perforation of the tympanic membrane,1
+osteomyelitis,1
+osgood-schlatter disease,1
+thyroid-stimulating hormone,1
+oral laxative,1
+trial of non-invasive ventilation,1
+tuning fork,1
+oral propylthiouracil,1
+oral estrogen,1
+true –ve,1
+thyroid adenoma,1
+oral estrogen therapy,1
+oral flucloxacillin,1
+trigeminal,1
+oral prednisolone,1
+trigger finger.,1
+oral ppi,1
+oral penicillin v,1
+oral fluid replacement,1
+trimethoprim,1
+oral nsaids,1
+true +ve,1
+oral glucose tolerance test,1
+per rectal,1
+trimethoprim + sulfamethoxazole,1
+per rectal exam,1
+trochlear nerve,1
+tropical pulmonary eosinophilia,1
+per speculum exam,1
+troponin,1
+percutaneous angiography,1
+oral laxatives,1
+thyroid antibodies,1
+peptic ulcer disease,1
+peptic ulcer,1
+orchidectomy,1
+penicillin po,1
+orthostatic hypotension,1
+oropharynx,1
+oropharyngeal airway,1
+oral codeine,1
+organic brain damage,1
+threatened miscarriage,1
+trichorrhexis nodosa,1
+penicillin+tazobactam,1
+oral contraceptives,1
+orchidopexy,1
+oral corticosteroids,1
+transverse colostomy,1
+oral diclofenac,1
+tumor grading,1
+orbital teratoma,1
+percutaneous nephrostomy,1
+throat swab,1
+oral tramadol,1
+thrombocytopenia,1
+tricuspid atresia,1
+tuberculus arthritis,1
+oral thyroxine,1
+oral theophylline,1
+triceps jerk – t1,1
+topical permethrin,1
+transverse colectomy,1
+papovirus,1
+passes through the superficial inguinal ring only,1
+tonsillar carcinoma,1
+"total bilirubin:300, conjugated bilirubin 85%",1
+paternal blood group,1
+paraldehyde,1
+parainfluenza,1
+paracoccidiodmycosis,1
+paracetamol/ibuprofen,1
+patient autonomy,1
+paracetamol+dihydrocoiene,1
+"total bilirubin:40, conjugated bilirubin<5%",1
+"total bilirubin:400, conjugated bilirubin<85%",1
+para-aortic,1
+patient should be isolated in a negative pressure chamber in his house,1
+pca (morphine),1
+parvovirus infection,1
+papillitis,1
+papillary necrosis (acute),1
+pcp cold agglutinins,1
+"total bilirubin:500, conjugated bilirubin>85%",1
+total blindness,1
+pcr for treponemal and non-treponemal antibiodies,1
+pe,1
+total serum protein,1
+toxapram,1
+peak expiratory flow rate,1
+pancreatic necrosis,1
+pancreatic ca,1
+pancreas,1
+twins,1
+paralytic ileus,1
+paramyxovirus,1
+toxoplasma and rubella,1
+parietal lobe,1
+parotitis,1
+parotiditis,1
+parotid duct stones,1
+paroxetine,1
+partial complex,1
+parotid calculus,1
+parkinson’s disease,1
+topical selenium sulphidehyosine,1
+topical ketoconazole,1
+topical steroids,1
+partial mastectomy,1
+paris syndrome,1
+topical gentamicin,1
+topical betnovate,1
+partial simple seizure,1
+paraneoplastic neuropathy,1
+topical xylocaine,1
+topical antibiotics,1
+partial thyroidectomy,1
+torsion of testis,1
+torus,1
+parents karyotyping,1
+parental anti-emetics,1
+topic acyclovir,1
+partialgeneralized seizure,1
+paranoid delusion,1
+paranoid,1
+paraneoplastic syndrome,1
+parulis,1
+parvovirus,1
+toxicology screen,1
+palmar aponeurosis,1
+pelvic xr,1
+pelvic inflamatory disease (chronic),1
+tranexamic acid,1
+ovarian tumor,1
+tranexemic acid,1
+transdermal patch,1
+transesophageal echo,1
+ovarian cysts,1
+ovarian cyst,1
+ovarian carcinoma,1
+tibial fx,1
+transfer factor,1
+pelvic floor exercise,1
+ovarian branch of splanchic nerve,1
+oval macrocytes,1
+ottitis media suppurative  (chronic),1
+transfuse and defer surgery,1
+ovary,1
+transfuse and proceed with surgery,1
+transient ischaemic attack,1
+transient synovitis of the hip,1
+tibial,1
+transposition of the great arteries,1
+otitis media with infusion,1
+transrectal us,1
+tibia,1
+transthoracic echo,1
+transurethral reaction of the prostate,1
+otitis media (secretory),1
+otitis media (chronic),1
+thyroxine,1
+transverse carpal ligament,1
+tidal volume 500ml,1
+tinea versicolor,1
+peak flow meter,1
+packing of ear,1
+tonsillar ca,1
+pediatrician,1
+palliative colostomy,1
+toxoplasma gondii,1
+pelger-hüet anomaly,1
+trachea-esophageal fistula,1
+painkillers,1
+painful hip,1
+pain relief,1
+pain around hernia,1
+paget’s disease of the breast,1
+tracheal intubation,1
+paget's disease of bone,1
+pellagra,1
+tracheo-esophageal fistula,1
+overnight dexamethasone suppression test,1
+tonic clonic,1
+pelvic base fx,1
+packed cells,1
+pack with gauze and leave to dry,1
+pack it,1
+p6 acupressure,1
+oxygen mask,1
+traction alopecia,1
+oxycodone 10mg od,1
+oxycodone,1
+toilet training,1
+oxybutanin,1
+todd syndrome,1
+overnight pulse-oximetry,1
+outer ear,1
+roung ligament stretching,1
+oral antacids,1
+"na+ 130mmol/l, k+ 5.5mmol/l",1
+"na+ 150mmol/l, k+ 3.5mmol/l",1
+"na+=120mmol/l, k+=5.9mmol/l",1
+"na+=125mmol/l, k+=2.9mmol/l",1
+verruca vulgaris,1
+"na+=13, k+=6.0",1
+verbal dysphasia,1
+"na+=130, k+=1.5",1
+"na+=130, k+=2.5",1
+verbal diarrhea,1
+ventricular tachycardia (malignant),1
+"na+=130, k+=6.5",1
+"na+=130mmol/l, k+=2.5mmol/l",1
+"na+=130mmol/l, k+=5.5mmol/l",1
+ventilatory support,1
+"na+=140, k+=8",1
+venography,1
+venereal disease research laboratory,1
+"na+ 140mmol/l, k+ 4.5mmol/l",1
+"na+ 130mmol/l, k+ 2.5mmol/l",1
+vector,1
+vertebral artery,1
+vit b12 deficiency,1
+vit b12,1
+visual field test,1
+visual evoked response test,1
+viral pneumonia,1
+viral encephalitis,1
+vincent’s angina,1
+villamentous insertion of placenta,1
+myocarditis,1
+video-fluoroscopy,1
+vestibule space,1
+vestibular neuronitis,1
+myoglobin,1
+vertibrobasiliar insufficiency,1
+myotonia,1
+vertibrobasilar ischemia,1
+myotroponin,1
+"na+=150mmol/l, k+=5.9mmol/l",1
+vasovagal syncope,1
+two years,1
+nasopharyngeal tumor,1
+neb. salbutamol,1
+nebulised bronchodilators,1
+nebulized adrenaline,1
+nebulized epinephrine,1
+uterus,1
+nebulized salmetarol and oxygen,1
+neck abscess,1
+uterine prolapse,1
+"neck, chest, abdominal xr",1
+nedocromil sodium,1
+uterine myoma,1
+needle aspiration of scrotum,1
+needle cricothyrodotomy,1
+needle thoracocentesis,1
+uterine,1
+needle thoracocenthesis,1
+neighbor strapping,1
+uterus weight 1.1kg,1
+nasopharyngeal carcinoma,1
+vasopressin,1
+nasopharyngeal cancer,1
+varicosity 2nd to liver disease,1
+naloxone is a partial agonist at the central nervous system opioid receptor,1
+naloxone is absorbed faster than methadone,1
+varicella zoster virus,1
+vancomycin + metronidazole,1
+valproate,1
+naloxone is eliminated faster than methadone,1
+vaginal myomectomy,1
+narcolepsy,1
+vaginal hysterectomy,1
+nasal decongestant,1
+nasal infection,1
+nasal ippv,1
+nasal packing,1
+vaginal estrogen therapy,1
+vaginal estrogen,1
+vaginal bleeding,1
+myocardial infarction (acute),1
+vit d absorption in intestines,1
+vit e def,1
+xr of bone,1
+mouth to mouth,1
+xr knee,1
+xr femur,1
+xr face,1
+xr erect and supine,1
+xr cervical spine,1
+xanomeline,1
+mri acoustic canal,1
+x-linked,1
+wrong dates,1
+wilm’s tumor,1
+mri cerebellum,1
+mri chest,1
+mri frontal lobe,1
+wilms tumor,1
+wide splint with upward position,1
+whiplash injury,1
+xr neck,1
+xr orbit,1
+myeloma,1
+most will require surgery,1
+zieve’s syndrome,1
+montelukast po,1
+mood,1
+mood disorder,1
+young helmholtz ophthalmoscopy,1
+yellow nail syndrome,1
+mooren’s ulcer,1
+xr thoracolumbar spine,1
+xr thoracic spine,1
+morphine 240mg iv/d,1
+morphine 60mg iv,1
+morphine 60mg iv/d,1
+morphine 60mg state,1
+morphine 60mg tds,1
+xr sacro-iliac joints,1
+morphine oral,1
+most will have kidney scarring by 5yo,1
+mri neck,1
+wernicke’s area,1
+mri orbits,1
+mri pituitary gland,1
+muscle strain,1
+vocal cords,1
+muscular atrophy,1
+muscular dystrophy,1
+vocal cord nodules,1
+vocal chord nodules,1
+mycobacterium avium complex,1
+mycobacterium avium intercellular,1
+vocabulary consists of only 2 meaningless words,1
+vitreous chamber,1
+vitamin supplement,1
+mycoplasma pneumoniae,1
+mycosis fungoides,1
+myelodysplastic disease,1
+myelofibroblasts,1
+vit k,1
+myeloid cell,1
+muscle injury,1
+munchausen’s by proxy,1
+voluntary admission,1
+mucocele,1
+weight of child = 10kgs,1
+mri temporal lobe,1
+weber’s test,1
+wax,1
+mri vestibule,1
+msu culture and sensitivity,1
+wart,1
+warfarin only,1
+munchausen’s,1
+mucormycosis,1
+multi-infarct dementia,1
+waldenström's macroglobulinaemia,1
+multiple immature granulocytes with blast cells,1
+waldenstrom’s,1
+wait for blood test,1
+wait for 4h paracetamol level,1
+usually occurs after prolonged tx,1
+using 7d condoms after antibiotics and avoid pill free break,1
+using 7d condoms after antibiotics,1
+obstructive sleep apnea syndrome,1
+obturator artery,1
+thoracocenthesis,1
+obtuse marginal branches,1
+unilateral external laryngeal nerve,1
+unilateral carotid sinus massage,1
+obvious cognitive impairment,1
+unilateral adrenal enlargement,1
+occulomotor nerve,1
+octreotide,1
+undisplaced fx of radial head,1
+oesophageal cancer,1
+ofloxacin 400mg bd and metronidazole 400mg bd,1
+ogtt with growth hormone measurements,1
+undescended testis,1
+olanzepin,1
+under general anesthesia,1
+ondansetron,1
+obtain secure iv access,1
+unilateral recurrent laryngeal nerve,1
+nuclear imaging of brain,1
+unilateral renal artery stenosis,1
+nucleated rbc,1
+nutritional,1
+nutritional assessment,1
+"urea, creat and electrolytes",1
+nystatin suspension,1
+o2 by mask,1
+urea breath test,1
+oat cell ca,1
+observation for 24 hours in the icu,1
+observation for another 24h,1
+observation for one year and repeat the mammography,1
+upper gastrointestinal endoscopy,1
+unstable angina,1
+observational,1
+obsessibe-compulsive personality disorder,1
+obsessive,1
+universal prevention application protocol,1
+under ga,1
+ondansetron im,1
+ondansetron oral,1
+ondansetron po,1
+operative stone removal,1
+ulnar deformity,1
+ulnar,1
+ophthalmoscopy,1
+opioid od,1
+opioids,1
+oppositional defiant,1
+optic atrophy,1
+ulcer,1
+typically affects the face,1
+optic glioma,1
+typhoid,1
+tympanometry,1
+tympano-sclerosis,1
+oral,1
+tx of the medial collateral lig of the ankle,1
+oral amitryptiline (2nd line),1
+ulnar fx,1
+open surgical debridement,1
+open reduction and internal fixation,1
+opd referral to psychiatrist,1
+one and a half years,1
+one year,1
+only ig,1
+only passes through the superficial inguinal ring,1
+only the mother should be given rifampicin prophylaxis,1
+onychomycosis,1
+opd referral,1
+opd referral to relationship counselor,1
+open laparotomy and re-closure,1
+opd review,1
+open access to ed,1
+umbilical hernia,1
+open angle glaucoma,1
+open biopsy,1
+open laparotomy,1
+ulnar nerve release,1
+nuclear scan,1
+ureteric colic,1
+using 14d condoms after antibiotics and avoid pill free break,1
+new variant cid,1
+ng tube suction and iv fluids,1
+urtericaria,1
+ursodeoxycholic acid,1
+nihilism,1
+urine test for hematuria,1
+nimodipine,1
+nitrate infusion,1
+no additions req,1
+no extra precaution,1
+no further intervention needed.,1
+no further investigation,1
+no fx,1
+no genetic link,1
+no inv required,1
+urine nitrates,1
+urine microscopy and culture,1
+no ivf,1
+ng tube,1
+neuropsycho analysis,1
+nuclear imaging,1
+neuropsychiatric analysis,1
+using 14d condoms after antibiotics,1
+neisseria gonorrhoeae and candida albicans,1
+neisseria gonorrhoeae and candida albicans and gardnerellavaginalia,1
+neisseria gonorrhoeae and chlamydia trachomatis,1
+neisseria gonorrhoeae and chlamydia trachomatis and candida albicans,1
+neisseria gonorrhoeae and chlamydia trachomatis and gardnerellavaginalis,1
+neologism,1
+neonate,1
+usg abdomen,1
+neoplasm,1
+neoplastic,1
+neoplastic cells are arranged in small clusters occupying a space between collagen bundles (seirrhous carcinoma),1
+us pelvis,1
+us guided biopsy,1
+urticarial,1
+neuropathic bladder,1
+urticaria,1
+no med tx available,1
+urine culture,1
+urine c&s,1
+no tx req,1
+urgent admission to itu (intensive therapy unit),1
+noonan syndrome,1
+norethisterone,1
+normal change,1
+normal development,1
+urgent abdominal us,1
+urgent abdominal ct,1
+"normal na+, normal k+",1
+"normal na, normal serum osmolarity, normal urine osmolarity",1
+ureteroscopy or laser,1
+nothing can be predicted,1
+nothing until immune status is checked,1
+ns 0.45%,1
+ns 0.9%,1
+ns 0.9% and insulin,1
+ureteric surgery,1
+nuclear imagine of the brain,1
+urgent exploration,1
+none until hepatitis b status confirmed,1
+none req,1
+urinary tract infection (chronic),1
+urine analysis,1
+nocturnal enuresis,1
+noise induced deafness,1
+non urgent referral to specialist,1
+non-contrast ct brain,1
+urine,1
+non-insulin dependent diabetes mellitus,1
+non-maleficence,1
+none of the above,1
+non-sclc,1
+non-urgent referral to ophthalmologist,1
+urinary catheterization,1
+urinary bhcg,1
+urgent us,1
+urgent surgery,1
+urgent referral to ophthalmologist,1
+obturator nerve,1
+temporal lobe epilepsy,1
+thoracic vertebra compression,1
+shy drager syndrome,1
+shoulder dislocation,1
+rectus sheath,1
+short trial of hcg,1
+short saphenous vein,1
+recurrent brief depression,1
+recurrent laryngeal nerve palsy,1
+recurrent utis,1
+red and inflamed tympanic membrane,1
+reduce contrast dye,1
+reduce lithium dosage but continue throughout pregnancy,1
+reduce lithium gradually and stop when pregnancy is confirmed,1
+reduced caloric intake,1
+short q-t interval,1
+short p-r interval,1
+reduced uptake on thyroid isotope scan,1
+short course of oral corticosteroid,1
+reed-stenberg cells,1
+rectus muscle,1
+rectosigmoid tumor,1
+short acting insulin before meal,1
+rectal exam,1
+rbc,1
+rbc vol 1.64l,1
+rbs,1
+re-infarction,1
+silica,1
+sigmoid carcinoma,1
+reassurance and annual screening only,1
+reassurance and discharge,1
+reassurance and discharge home,1
+reassurance and f/u after 6m,1
+sickle cell anemia and hep,1
+rebreath into a paper bag,1
+rebreathe in a paper bag,1
+recent enlargement,1
+recommend a heavier lunch,1
+recovery position,1
+shy-drager syndrome,1
+short course of o2 therapy,1
+refer to acute medical team,1
+rapidly progressive glomerulonephritis,1
+she can use cocp with estrogen 50ug and progesterone higher dose,1
+she can use cocp if anticonvulsant is changed to carbamezapin.,1
+she can use cocp,1
+severe migraine attack,1
+refer to psychiatry ward,1
+severe combined immunodeficiency,1
+refer to psychodynamic therapy,1
+seven years,1
+serum psa,1
+refer to psychology,1
+refer to social worker,1
+refer to specialist unit,1
+serum protein,1
+serum progesterone conc.,1
+refer urgently to a surgeon,1
+serum plasma paracetamol,1
+referral to clinical psychologist,1
+referral to gum clinic,1
+refer to psychiatry,1
+she can use cocp with extra precaution,1
+short acth test,1
+she can’t make a sentence,1
+refer to clinical psychologist,1
+refer to community mental health support group.,1
+refer to dermatology,1
+refer to eating disorder clinic,1
+refer to ed,1
+refer to ent specialist,1
+refer to ent surgeon,1
+refer to medical ward,1
+refer to neuro-surgeon,1
+shift to or,1
+shies away from strangers,1
+she can’t use cocp,1
+refer to op ent,1
+refer to op psychiatry,1
+refer to pediatrician,1
+refer to psychiatrist to assess pts ability to refuse tx,1
+refer to psychiatrist to assess the mental capacity to give consent,1
+rassurance,1
+rapid plasma regain test,1
+referral to surgeon,1
+spigelian hernia,1
+spigelian,1
+spherocytosis,1
+spherocytes,1
+put airway,1
+put in plaster,1
+put leg splint,1
+spectacles,1
+spasmolytics,1
+sparingly use both the cream,1
+pyloric stenosis,1
+pyoderma gangrenosum,1
+pyogenic granuloma,1
+pyogenic peritonitis,1
+pyrexia,1
+space of disse,1
+pyrimethamine,1
+pyrimethamine + sulfadiazine,1
+pulsusparadoxus,1
+spinal cord,1
+quarantine,1
+pulsusbisferiens,1
+pudendal block,1
+sprain of the back muscles,1
+pudendal nerve,1
+sprain of the acromio-clavicular ligament,1
+pulled elbow,1
+pulmonary edema,1
+spontaneous miscarriage,1
+pulmonary hemosiderosis,1
+splint,1
+splenic rupture,1
+splenectomy,1
+spiramycin,1
+pulmonary tb,1
+pulmonary thrombosis,1
+"spindle cell neoplasms with margins, which infiltrate adjacent structure, fat invaded (breast sarcoma)",1
+pulsusalternans,1
+pulsusbigeminus,1
+pyromania,1
+quetiapine,1
+single inj of dpt vaccine,1
+sleep alarms,1
+raise hand for 2d,1
+raised icp,1
+skin swab for bacteria,1
+skin scrap for mycology,1
+skeletal metastases,1
+sinusitis (chronic),1
+sinusitis (acute),1
+raloxifen,1
+raloxifene,1
+sinus bradycardia,1
+single vessel cerebral,1
+single inj of tetanus ig,1
+random blood glucose conc,1
+random blood sugar,1
+single inj of dt,1
+random insulin-like growth factor (igf-1),1
+ranitidine,1
+sle associated gn,1
+slipped femoral epiphysis,1
+sotalol,1
+small bowel lymphoma,1
+radial,1
+somatization disorder,1
+radiation,1
+radiation therapy,1
+radical prostatectomy,1
+somatic,1
+radio isotope scan,1
+radio therapy to the liver,1
+solar keratosis,1
+radioactive iodine,1
+sodium valproate,1
+sodium bicarbonate,1
+social service,1
+small cells with round nucleus and scant indistinct cytoplasm (lobular carcinoma),1
+radionucleotide lung scan,1
+small cell ca,1
+small bowel obstruction,1
+referral to local alcohol treatment team,1
+referred ear ache,1
+thoracic spinal cord,1
+schizotypal,1
+retrospective,1
+schizoid,1
+return to ot and explore,1
+return to theatre and explore,1
+return to work to relieve her anger,1
+schistosomiasis,1
+revealed hemorrhage,1
+schistosoma mansoni,1
+schistosoma hematobium,1
+schistosmiasis,1
+schistocytes,1
+review both drug,1
+review drugs,1
+review evening drug,1
+review morning drug,1
+rf,1
+rf/aso titre,1
+retroperitoneal,1
+sclerodactyly,1
+rhesus isoimmunisation,1
+retrobulbar xylocaine inj,1
+respiratory alkalosis (compensated),1
+restrict fluid intake,1
+restrict fluids,1
+results from auto-antibodies to red cell antigens,1
+second stage,1
+sebaceous cyst,1
+reticular shadowing in the bases,1
+reticulocytes,1
+seasonal depression,1
+retinal detachmen,1
+scratch test,1
+scopolamine,1
+retinal vascular shunts,1
+retinitis pigmentosa,1
+retinoblastoma,1
+retinopathy,1
+sclerotherapy,1
+schimmer test,1
+rheumatism,1
+resection of the sigmoid colon,1
+ruptured aortic aneurysm,1
+right internal carotid artery dissection,1
+right lateral medulla,1
+right medial medulla,1
+right mid-thoracic cord,1
+right midbrain,1
+right paracolic gutter,1
+right side aspiration (16g),1
+right side drain with a small tube (12f),1
+right ventricular strain,1
+right vertebral artery atheroembolic stroke,1
+ring pessary,1
+rupture of the long head of biceps,1
+rupture of achilles tendom,1
+romberg’s test,1
+rs,1
+roseola infectiosum,1
+rotavirus,1
+right internal carotid artery atheroembolic stroke,1
+right internal capsule,1
+sc,1
+ruptured ectopic pregnancy,1
+rhinovirus,1
+riboflavine.,1
+sbp 110mmhg,1
+rifampicin for the whole class and family,1
+saphenous vein varicocoele,1
+rifampicin for the whole school and family,1
+saphano-femoral junction,1
+salpingotomy,1
+salpingectomy,1
+salmetrol po,1
+saline 0.9% iv,1
+right hemicolectomy,1
+salbutamol nebulizer,1
+s]moking,1
+s. pneumonia,1
+s. aureus,1
+ruptured esophagus,1
+respiratory alkalosis (acute),1
+resection of superficial,1
+serum paraprotein electrophoresis,1
+serum blood glucose,1
+relaxation therapy,1
+montelukast,1
+release of common flexor sheath,1
+release of flexor retinaculum,1
+release of palmar sheath,1
+relieve pain with aspirin,1
+relieve pain with sumatriptan,1
+rem-related sleep disorder,1
+removal of hormonally active tumor,1
+serum b-hcg,1
+remove cast,1
+remove dexamethasone,1
+serum alp isoenzyme conc,1
+remove ga,1
+remove lesion,1
+remove manually by fingers,1
+serum albumin,1
+serum bilirubin,1
+relative risk=2,1
+serum afp,1
+relative risk =5,1
+serum lipase,1
+reflux nephropathy,1
+refuse surgery and send pt back,1
+regeneration,1
+regular eye check ups,1
+serum hgb conc,1
+serum h.pylori antibodies,1
+regular salbutamol,1
+serum fsh/lh,1
+serum estradiol conc.,1
+serum drug levels,1
+serum cortisol conc,1
+reiter's syndrome,1
+reiter’s syndrome,1
+serum cortisol,1
+rejection (acute),1
+relative risk =10,1
+remove under ga,1
+remove with a hook,1
+requires antibiotic prophylaxis,1
+repeat lp,1
+repeat msu after wedding,1
+repeat smear,1
+repeat smear in 6m,1
+repeat the blood test,1
+senna tablets,1
+send pt to care home,1
+repeat vaginal examination in 2h,1
+send pt home,1
+send for repeat xr,1
+send bloods for inv,1
+semimembranous bursa,1
+selegiline,1
+replace cast with more padding,1
+replace morphine with oral hydromorphone,1
+secure airways,1
+replace morphine with oxycodone,1
+request son to move in with father,1
+sensorineural deafness,1
+repeat ct brain in 24h,1
+remove with magnet instrument,1
+repeat ct,1
+renal artery doppler,1
+renal carcinoma,1
+serum acid phosphates conc,1
+renal colic,1
+renal disease,1
+serous otitis,1
+seronegative arthritis,1
+serology for legionella,1
+septicemia,1
+septic emboli,1
+septic arthritis,1
+renal function test,1
+renal stones,1
+sensorineural hearing loss,1
+renin,1
+repeat after 4m,1
+repeat blood film,1
+pt got wrong dx or management,1
+pt died soon after admission,1
+sputum culture,1
+syphilis and toxoplasmosis,1
+plasma osmolality of 335mosmol/kg and urine osmolality of 700mosmol/kg,1
+plasma rf,1
+plasma sodium of 126mmol/l,1
+plasma sodium of 150mmol/l,1
+plasmapheresis and plasma infusion,1
+synchronized dc cardio-version,1
+plaster cast,1
+symphasis pubis dysfunction,1
+switch to sodium valproate,1
+platelet problem,1
+sweat,1
+platelets,1
+plenty of fluids,1
+swan neck deformity,1
+swab for hemophilus ducreyi,1
+swab and culture,1
+surgical repair,1
+plasma osmolality of 335mosmol/kg and urine osmolality of 200mosmol/kg,1
+plasma osmolality of 280mosmol/kg and urine osmolality of 700mosmol/kg,1
+surgical exploration of scrotum,1
+syphilis serology,1
+placenta percreta,1
+t4,1
+t-cells,1
+sézary cell leukaemia,1
+systemic estrogen,1
+syringobulbia,1
+placental migration,1
+plain abdominal x-ray,1
+plain abdominal xr,1
+syringing ent,1
+plasma electrolytes,1
+plasma glucose,1
+plasma na+ decrease and urine osmolarity decrease,1
+plasma na+ decrease and urine osmolarity increase,1
+syphilis toxoplasma,1
+plasma na+ increase and urine osmolarity decrease,1
+plasma na+ increase and urine osmolarity increase,1
+surgical intervention,1
+sural nerve,1
+tachycardia,1
+po fluconazole,1
+po ppi,1
+superficial thrombophlebitis,1
+superficial inguinal ln,1
+polycystic kidney,1
+sumatriptan,1
+polycystic kidney disease,1
+sulphonyl urea,1
+polycystic kidneys,1
+sugar free diet,1
+polycythemia rubra vera,1
+polycythemia vera,1
+polydactyly,1
+suction,1
+polymyalgia rheumatica,1
+succiturate lobe,1
+subplacental abruption,1
+polyp,1
+po ondansetron,1
+po chlorpheniramine,1
+sural,1
+supra pubic aspiration of urine for c&s,1
+pleural fluid aspiration of cytology,1
+pleural fluid cytology,1
+supraspinatus tendinitis,1
+suprascapular nerve,1
+plt count,1
+plts,1
+plummer-vinson syndrome,1
+pneumocystic jerovici,1
+suprapubic catch of urine,1
+pneumocystis jerovcii,1
+suprapatetaller bursa,1
+pneumocystis jerovii,1
+supraglottic space,1
+pneumocystis jiroveci,1
+pneumonectomy,1
+supracondylar fx,1
+supra-pubic aspirate of urine for culture,1
+placenta accrete,1
+pituitary tumor,1
+psychogenic itching,1
+thalassemia trait,1
+thalassemia minor,1
+peroneal,1
+thalamus,1
+peroneal nerve,1
+persecution,1
+tetracycline 250mg qd,1
+tetrabenazine,1
+tetanus prophylaxis,1
+perseveration,1
+testosterone gel,1
+personality disorder,1
+pethadine,1
+pethidine,1
+"ph =7.2, paco2 =8",1
+"ph =7.4, paco2 =1.5",1
+"ph =7.4, paco2 =2.6",1
+testes,1
+pernicious anemia has swallowing difficulties,1
+thallium toxicity,1
+"ph decreased, pco2 decreased",1
+the child had not eaten since morning,1
+thoracic outlet syndrome,1
+third stage,1
+periductal mastitis,1
+thioridazine,1
+thiazide diuretics,1
+there is a 1:4 chance that your future child will have this disease,1
+theophylline,1
+periorbital cellulitis,1
+the pt has misused another substance that is absorbed more slowly than methadone,1
+the pt has misused another substance that has caused an intracranial bleed,1
+the methadone had already caused some brain damage,1
+the donor should be encouraged to mobilise after they have recovered,1
+peritoneal tumor,1
+the donation is usually continued along with simultaneous normal saline infusion.,1
+the child’s body became rigid and then started to jerk,1
+the child suddenly went blank and there was up-rolling of eyes,1
+the child started moving his fingers uncontrollably before he fell,1
+"ph =7.4, paco2 =2.8",1
+"ph decreased, pco2 increased",1
+pituitary gland,1
+tb arthritis,1
+phyostigmine,1
+physiological jaundice,1
+tazobactam,1
+tardive dyskinesia,1
+pid at l2/l3,1
+tamsulosin,1
+take swab,1
+piles,1
+take it before meals,1
+take it after meals,1
+pilocarpine,1
+take antiemetic,1
+take antiacids,1
+piperacillin + tazobactam,1
+piperacillin+co-amoxiclav,1
+piperacillin+tazobactam,1
+pitocin,1
+phototherapy,1
+tb lymphadenitis,1
+"ph high, pco2 high",1
+phosphate binders,1
+"ph high, pco2 low",1
+"ph increased, pco2 decreased",1
+"ph increased, pco2 increased",1
+"ph low, pco2 high",1
+"ph low, pco2 low",1
+terminate pregnancy,1
+teratoma,1
+tendinitis of the abductor sheat,1
+pharyngeal puch,1
+ten years,1
+phenylpropanolamine,1
+phenytoin,1
+rotor’s syndrome,1
+temporal lobe dysfunction,1
+tempero-mandibular joint dysfunction,1
+telogen effluvium,1
+tb peritonitis,1
+polysomnography,1
+subphrenic abscess,1
+subphrenic,1
+proctalgia fugax,1
+profound femoral artery,1
+profundafemoris artery,1
+progestogen implant,1
+progression of brain tumor,1
+progression of lung cancer,1
+stenting,1
+stenosed duct meatus,1
+statins,1
+statin+acei,1
+statin and metformin,1
+prolactin secreting pituitary tumor,1
+statin and glitazone,1
+proliferative diabetic retinopathy,1
+statin and glibenclamide,1
+prolonged antibiotics,1
+prolonged neonatal jaundice,1
+prolonged q-t interval,1
+procyclidine,1
+steroid,1
+statin,1
+steroid drop,1
+stop breastfeeding,1
+stop antibiotics,1
+pretibial bursa,1
+pretibial myxedema,1
+stool c&s,1
+primary bcell immunodeficiency,1
+stool >10x/d,1
+stomach carcinoma,1
+stokes adams attack,1
+stockholm syndrome,1
+stevens-johnson syndrome,1
+steroid use,1
+steroid side effects,1
+primary tcell immunodeficiency,1
+problem focused tx,1
+steroid induced myopathy,1
+steroid drops,1
+statin and biguanide,1
+propranolol (bb),1
+subparietal,1
+pseudobulbar palsy,1
+pseudocushing’s syndrome,1
+staph albus,1
+standing and lying bp,1
+stable angina,1
+squamous to columnar epithelium,1
+pseudotumor,1
+psoas hematoma,1
+psoriatic arthropathy,1
+psychiatric opd review  the next day,1
+squamous cell laryngeal cancer,1
+psychiatric referral for admission,1
+sputum staining for mycobacterium tuberculosis,1
+psychiatry team,1
+psychiatry voluntary admission,1
+psychoanalysis,1
+psychodynamic psychotherapy,1
+psychodynamic therapy,1
+pseudocushing syndrome,1
+pseudo-psychosis,1
+stasis,1
+staphylococcus epidermis,1
+start tranexemic acid,1
+start iv ceftriaxone,1
+start iv benzylpenicillin,1
+start iv antibiotics,1
+start him in iv insulin and glucose and k+ just before surgery,1
+protalgia fugax,1
+protein c deficiency,1
+protein energy malnutrition,1
+start broad spectrum iv antibiotics,1
+proteus,1
+proton pump inhibitor,1
+prv carcinoma,1
+start antidepo,1
+prv cin,1
+start antibiotics,1
+start alpha blocker,1
+pseudo-dementia,1
+pressured speech,1
+stop dexamethasone,1
+pressure over the soft tissues,1
+post infection nephritis,1
+subchorionic abruption,1
+subarachnoid,1
+subacute endocarditis,1
+sub-phrenic collection,1
+sub-mandibular abscess,1
+post viral infection,1
+post – strep gn,1
+sub-arachnoid space,1
+stroke (ant circulation),1
+post-chemo neuropathy,1
+post-concussion syndrome,1
+stridor,1
+strict sugar control,1
+posterior dislocation of shoulder,1
+posterior pararenal space,1
+posterior tibial artery,1
+stress,1
+post phlebitis syndrome,1
+post inf cerebellar artery,1
+pressure over eyeball,1
+post hip dislocation,1
+submandibular calculus,1
+pontine hemorrhage.,1
+poor specificity,1
+subdural hemorrhage (chronic),1
+popliteal artery,1
+subdural headache,1
+popliteal veins,1
+subdural,1
+subcutaneous morphine,1
+positive thyroid peroxidase antibodies,1
+post cerebral artery,1
+post chamber,1
+post circulation stroke,1
+post cruciate,1
+subcutaneous insulin,1
+subcutaneous bleeding,1
+subclavian artery,1
+postpaetum depression,1
+postpartum blues,1
+postpone tx until bacteriology results available,1
+postpurtum psychosis,1
+stop smoking,1
+stop oral hypoglycemic the prv night and start iv insulin with glucose and k+ before,1
+prescribe anti-depressants,1
+prescribe antidepressant,1
+prescribe contraceptives,1
+prescribe oral antibiotics and discharge,1
+prescribed med,1
+presence of hemoglobin m,1
+presence of hemoglobin s,1
+presence of pain,1
+press base of the nose,1
+stop meds,1
+stop insulin for the duration of the op,1
+press soft parts of the nose,1
+stop his oral hypoglycemic on the day of the procedure,1
+pressure of speech,1
+pressure over base of the nose,1
+presbyacusis,1
+stop sodium valproate and change to another anti-epileptic,1
+prepatellar bursa,1
+stop warfarin and start heparin,1
+streptococcal infection,1
+poverty,1
+ppi and antibiotic,1
+ppi iv,1
+ppi po,1
+strep pneumococcus,1
+prazocin (alpha blocker),1
+stop warfarin and add heparin,1
+pregnancy-induced hypertension,1
+pre-diabetic state,1
+pre-eclampsia,1
+stop warfarin and add aspirin,1
+stop the drug,1
+pregnancy induced htn,1
+pregnancy induced hypertension,1
+pregnancy test (urine or serum).,1
+ placental abruption secondary to traum,1
+iv haloperidol,1
+monitor pyrexia,1
+child should be admitted to hospital straight away,1
+check airway patency and prepare intubation,1
+check catheter,1
+check serum k+ level,1
+checking red reflex,1
+chemotherapy and radiatherapy,1
+chest compressions,1
+chest ct,1
+chest drain insertion,1
+chest drainage,1
+chest hyperventilation syndrome,1
+chest physiotherapy,1
+chlamydia,1
+choriocarcinoma,1
+"chlamydia, gardenella",1
+"chlamydia, gonorrhea",1
+"chlamydia, gonorrhea, gardenella",1
+chlamydial cervicitis,1
+chlorphenaramine,1
+chlorpheniramine po,1
+cholestatic jaundice,1
+cholesterol emboli,1
+chondro-sarcoma,1
+chondromalasia,1
+chorangioma,1
+check airway,1
+check abg,1
+change type of insulin,1
+change to short acting oral hypoglycemic,1
+ceftriaxone iv,1
+cefuroxime,1
+cefuroxime po,1
+central retinal vein thrombosis,1
+cephalic vein,1
+cerebellar disease,1
+cerebellar infarct,1
+cerebellar tumor,1
+cerebral angio,1
+cerebral angiography,1
+cerebral embolus,1
+cerebral hemisphere,1
+cerebro-vascular disease,1
+cervical cerclage,1
+cervical cytological smear,1
+cervical rib,1
+cervical smear (2nd line),1
+cervical spinal cord,1
+cervical spondylosis,1
+cervix,1
+cevimiline,1
+change the catheter,1
+change to iv amoxicillin + gentamicin,1
+chorioamnionitis,1
+chorioretinitis,1
+ceftriaxone + flucloxacillin,1
+coagulation factor,1
+close contact,1
+closed reduction of fx,1
+clostridium perfringes,1
+clotrimazole,1
+clotting factor,1
+clotting factor problem,1
+clotting factors,1
+clotting profile,1
+clumped platelets,1
+coagulase –ve cocci,1
+coagulation disorder,1
+coagulation study,1
+chromosomal analysis,1
+cobolamin,1
+cocaine od,1
+cocodamol,1
+cocodemol,1
+codeine,1
+codeine phosphate for pain relief,1
+cohort,1
+collateral info,1
+colon ca,1
+colon cancer,1
+colorectal ca,1
+clopidogrel 75mg,1
+clonidine,1
+clomifen therapy,1
+clinical psychologist,1
+chromosomal karyotyping,1
+chronic diarrhea secretions,1
+chronic disease,1
+chronic fatigure syndrome,1
+chronic graft rejection,1
+chronic perforation of tympanic membrane,1
+chronic recurrent sialadenitis,1
+chronic renal disease,1
+chronic sialadenitis,1
+cin,1
+ciprofloxacillin,1
+ciprofloxacin po,1
+circumciliary vein occlusion,1
+circumflex femoral artery,1
+cirrhosis,1
+clauser’s syndrome,1
+claustrophobia,1
+clean catch of urine,1
+clean catch of urine for c&s,1
+clean catch urine specimen for culture,1
+clean the wound,1
+clean the wound and dress it,1
+clear airway,1
+ceftriaxone + terbinafine,1
+ceftazidime,1
+columnar to squamous epithelium,1
+by magnet,1
+budesonide inhaler,1
+bulimia,1
+bupivacaine infiltration of the,1
+burkitt lymphoma,1
+burns ointment,1
+burr hole,1
+burr hole drainage,1
+burst blisters,1
+buspirone,1
+by hook,1
+by instilling olive oil,1
+c&s of aspirate from swelling,1
+ca larynx,1
+c&s of joint aspirate,1
+c-reactive protein,1
+c13 urea breath test,1
+c5/c6,1
+c6/c7,1
+c7/t1,1
+c8/t1,1
+ca bladder,1
+ca bronchi,1
+ca bronchus,1
+ca colon,1
+budd-chiari syndrome,1
+budd-chiari,1
+buccal nerve,1
+buccal midazolam,1
+brain ventricles,1
+braxton hicks contractions,1
+breast cancer,1
+breast carcinoma,1
+breast cyst,1
+breath test,1
+bring to the hospital,1
+brivudin,1
+broad arm sling for 1wk,1
+broad spectrum antibiotics iv,1
+broad spectrum antibiotics po,1
+broca’s area,1
+bronchial asthma,1
+bronchitis (acute),1
+bronchoalevolar lavage,1
+bronchoalveolar lavage,1
+bronchodilators,1
+bronchogenic ca,1
+bronchospasm,1
+bronchus ca,1
+brucella melitensis,1
+brucellosis,1
+bubble echo,1
+ca esophagus,1
+ca prostate,1
+cefotaxime,1
+carotid angiography,1
+carcinoma of cecum,1
+carcinoma of descending colon,1
+carcinoma of rectum,1
+carcinoma of salivary gland,1
+carcinoma of sigmoid colon,1
+carcinoma of the salivary glands,1
+carcinoma right bronchus,1
+carcinoma thyroid,1
+cardiac output 6.5l/min,1
+cardioembolic stroke,1
+cardiovascular disease,1
+carotid artery,1
+ca stomach,1
+carotid artery stenosis,1
+carotid sinus massage,1
+carotid sinus syncope,1
+case study,1
+catheter catch of urine,1
+catheter degradation,1
+catheter specimen of urine for culture,1
+cauterization,1
+cautery of swelling,1
+cecal carcinoma,1
+cefixime,1
+carcinoma larynx,1
+carcinoma bronchus,1
+carbuncle,1
+carbon monoxide poisoning,1
+ca thyroid,1
+cabergoline,1
+cafergot,1
+calcitonin,1
+calcium chloride iv,1
+calcium disodium ethylene,1
+calcium gluconate iv,1
+calcium prep,1
+calcium resonate enema 30g,1
+calcium resonium enema,1
+calcium supplement,1
+calcium with vit d supplement,1
+call 999,1
+call anesthesiologist,1
+call ent surgeon,1
+call radiology,1
+can walk but not run,1
+candida,1
+candidiasis,1
+capillary blood gas,1
+capillary blood gases,1
+capillary refill time >4s,1
+carbamazepine,1
+colorectal polyps,1
+comes through femoral ring,1
+brain stem evoked response,1
+diagonal xr,1
+deviated nasal septum,1
+dexamethasone,1
+dexamethasone im,1
+dexamethasone po,1
+dexamethasone side effect,1
+dexamethasone therapy,1
+dextran,1
+dextrose-saline infusion,1
+diabetes insipidus,1
+diabetes mallitus (insulin-dependent),1
+diabetic nephropathy,1
+diamorphine,1
+diltiazem,1
+diaphragm,1
+diaphragm rupture,1
+diaphragmatic hernia,1
+diastolic bp 90mmhg,1
+diclofenac per rectal,1
+diclofenac sodium,1
+diet,1
+dietician,1
+diffuse systemic sclerosis,1
+diffuse wheeze,1
+"diffuse, smooth goiter",1
+detrusor overactivity,1
+destruction of keratinocytes,1
+despressed skull fx,1
+despiramine,1
+decubitus angina,1
+deep venous system,1
+deferoxamine mesylate,1
+deficiency d. lead poisoning of  b12,1
+deficiency in thyroid hormone,1
+deficiency of folate,1
+degenerative,1
+dehydration,1
+delayed fine motor development,1
+delayed gross motor development,1
+delayed motor development,1
+delayed sitting,1
+delayed social development,1
+delayed speech,1
+delayed verbal development,1
+delirious hallucinations,1
+delirious state,1
+delivery of baby,1
+demeclocycline,1
+depends on the genetic make up of the partner,1
+dermatitis,1
+dermoid cyst,1
+desipramine,1
+digoxin level,1
+dilutional hyponatremia,1
+decompensated cirrhosis,1
+drowsiness,1
+doppler usg,1
+dorsalis pedis,1
+dorsalispedis artery,1
+dosalepin,1
+double strength normal saline,1
+doxycycline 100mg bd and metronidazole 400mg bd,1
+doxycycline oral,1
+doxycycline po,1
+drill a burr hole,1
+drink less milk,1
+drop attacks,1
+drug hypersensitivity,1
+diphenhydramine,1
+drug induced hepatitis,1
+drugs,1
+dual energy xr abruptiometry,1
+duchenne muscular dystrophy,1
+duct fistula,1
+duloxetine,1
+dwarfism,1
+dyshidrosi,1
+dyslexia,1
+dysphonia,1
+dysplasia,1
+doppler us of legs,1
+doppler us,1
+doppler,1
+dopamine iv,1
+diploic vein,1
+dipstick for b-hcg,1
+direct coombs test,1
+direct inguinal,1
+direct pharyngoscopy,1
+disc prolapse,1
+discharge and allow to go home,1
+discharge to the care of the general practitioner,1
+discharge with advice,1
+discharge with analgesics,1
+discharge with painkillers,1
+discharge with psychiatry referral,1
+dislocated elbow,1
+dissociation,1
+distraction testing,1
+diuresis renography,1
+diverticulectomy,1
+diverticulosis,1
+do syringing,1
+does not pass through the superficial inguinal ring,1
+doesn’t pass through the deep inguinal ring,1
+don’t give any vaccine,1
+dopamine inj,1
+decrease the dose,1
+death could be due to occupational illness,1
+common peroneal nerve,1
+continue same tx,1
+continue cocp and backup contraception using condoms for 2wks,1
+continue cocp and backup contraception using condoms for 7d,1
+continue current management,1
+continue iv antibiotics and add oral antifungals,1
+continue iv ceftriaxone as mono-therapy,1
+continue lithium at the same dose and stop when pregnancy is confirmed,1
+continue lithium during pregnancy and stop when breast feeding,1
+continue only present antibiotics,1
+continue regular coc,1
+continue regular oral hypoglycemic,1
+continue same dose,1
+continue ssri,1
+corticosteroid im,1
+continue warfarin,1
+continue with surgery,1
+continue with warfarin,1
+continue with warfarin and add heparin,1
+contrast ct brain,1
+contrast mri optic nerves,1
+coomb’s test,1
+copper containing iucd,1
+corneal foreign body,1
+coronary spasm,1
+corpus callosum,1
+continue cocp and backup contraception using condoms for 2d,1
+continue breastfeeding,1
+continue antibiotics and add iv antifungals,1
+continue amitryptaline,1
+community psychiatric nurse visit,1
+compartment syndrome,1
+complex partial seizure,1
+complicated femoral hernia,1
+compression of common peroneal nerve,1
+compression of the s1 nerve root,1
+compression of the tibial nerve,1
+compression with palm of one hand,1
+compression with palm of two hands,1
+compression with rescue breaths 15:2,1
+compression with rescue breaths 30:2,1
+compulsory admission under mha,1
+condom catheter,1
+conduct lumbar puncture,1
+confusional state (acute),1
+congenital biliary tract obstruction.,1
+congenital cystic adenematoid malformation,1
+congenital sensorineural deficit,1
+conjoint tendon,1
+conservative,1
+conservative management,1
+conservative tx,1
+constrictive pericarditis,1
+cortical necrosis (acute),1
+corticosteroid iv,1
+de quervain’s tenosynovitis,1
+cystic medial necrosis,1
+ct lumbar spine,1
+ct of internal auditory meatus,1
+ct of pituitary,1
+ct pelvis,1
+ct scan of internal auditory meatus,1
+ct scan of the abdomen,1
+ct spine,1
+culdo-centhesis,1
+cyanotic heart disease,1
+cyclazine,1
+cyclosporine,1
+cystitis,1
+costochondritis (tietz’s disease),1
+cystitis (acute),1
+cystoscopy with biopsy,1
+cytomegalovirus and rubella,1
+cytotoxic chemotherapy,1
+cytotoxic meds,1
+dark ground microscopy from mouth ulcer,1
+dark ground microscopy of the ulcer,1
+day2 lh and fsh,1
+day21 progesterone,1
+dbp 90mmhg,1
+dc cardioversion,1
+ct kidney,1
+ct guided drainage,1
+ct cervical,1
+ct cerebellum,1
+counselling,1
+courses of dpt vaccine,1
+courses of dt,1
+court involvement,1
+couvade syndrome,1
+cover with antibiotics,1
+coxavara,1
+coxiella burnetii,1
+coxiella burnetti,1
+cpr,1
+cra thrombosis,1
+craniotomy,1
+creutzfeld-jacob,1
+creutzfeldt jacob disease,1
+criminal,1
+cross match blood,1
+cryosurgery,1
+crystalloids iv,1
+crystalloids sc,1
+crytogenic organizing,1
+ct acoustic canal,1
+ct angio brain,1
+ct brain with contrast,1
+brain stem injury,1
+brain abscess,1
+ear foreign body,1
+administer fluid bolus,1
+add iv ciprofloxacin,1
+add iv co-amoxiclav,1
+add leukotriene antagonist,1
+add oral theophylline,1
+add regular long-acting bronchodilator,1
+add statin only,1
+add tca,1
+add warfarin,1
+adenoma,1
+adhd,1
+adjust diuretics,1
+administer oxygen,1
+advice that he can go back to nursery when the rash is crusted over,1
+administration of varicella-zoster immune globulin im,1
+admission for parental,1
+admission to the psychiatry ward,1
+admission under the mental health act,1
+admit + iv antibiotics,1
+admit for iv antibiotics,1
+admit to medical ward,1
+admit under care of pediatrician,1
+adrenal,1
+adrenaline im,1
+adrenaline nebulizer,1
+add iv amoxicillin,1
+add clopidogrel only,1
+add clopidogrel and statin,1
+acyclovir iv +ivig,1
+absolute risk =10,1
+absolute risk=5,1
+abstinence,1
+acamprossate,1
+acanthocytosis,1
+ace inhibitor and glibenclamide,1
+ace inhibitor and metformin,1
+ace inhibitor and sulfonylurea,1
+aceclidine,1
+acetyl acetate,1
+acetylcholine,1
+achondrogenesis,1
+acid fast urine test,1
+acid-fast bacilli stain for sputum,1
+acidic urine,1
+acne,1
+acne rosacea,1
+acquired hypothyroidism,1
+actinic keratosis,1
+activated partial thromboplatin time,1
+active phase,1
+acute abdomen,1
+acyclovir iv,1
+advice on posture,1
+advice to be more active,1
+absent ovaries,1
+aminophylline po,1
+allergy,1
+allopurinol,1
+alopecia areata,1
+alopecia totalis,1
+alternate housing,1
+alveolar damage due to drugs,1
+amantadine,1
+amaurosis fugax,1
+ambulatory bp,1
+ameoba,1
+amiadarone,1
+amiodarone.,1
+age of mother,1
+amlodipine (ccb),1
+amnesia,1
+amoxicillin iv,1
+amphetamines,1
+amphotericin b iv,1
+anal carcinoma,1
+anal reflex – s1,1
+analgesics alone,1
+analgesics with antipyretics,1
+anastomotic leak,1
+anatomical,1
+allergic reaction developed due to use of topical steroid creams,1
+allergic drug reaction,1
+all their unaffected children will be carriers of cf,1
+all fingers of one hand,1
+airborne,1
+akathisia,1
+albumin,1
+albumin infusion,1
+albumin iv,1
+alcohol addiction,1
+alcohol consumption,1
+alcohol drops,1
+alcohol hallucinosis,1
+alcohol intoxication,1
+alcohol overdose,1
+alcoholic dementia,1
+alcoholic hepatitis,1
+alcoholic liver disease,1
+alcoholism,1
+alendronate,1
+alice in wonderland syndrome,1
+alkaline urine,1
+all family members need antibiotic therapy,1
+all family members need isolation,1
+all family members should be given rifampicin prophylaxis,1
+all family members should be immediately vaccinated with bcg vaccine,1
+all fingers of both hands,1
+absent uterus,1
+absent,1
+androgenetic alopecia,1
+1:50,1
+10units insulin with 50% dextrose,1
+1400,1
+15 compression: 2 breaths with nose pinched,1
+15 compression: 2 breaths without nose pinched,1
+15-30%,1
+1750,1
+18m of carbimazole alone,1
+18m of ptu (propylthyouracil) alone,1
+1:1,1
+1:1000,1
+1:200,1
+1:500,1
+24h help line,1
+1:5000,1
+1ml of 1:500,1
+1st degree heart block,1
+2 months,1
+2-3,1
+20% mannitol iv,1
+2100,1
+24% oxygen,1
+24% oxygen by mask,1
+24-hour postpartum,1
+24h ecg monitoring,1
+10u insulin,1
+10ml of 10% calcium gluconate,1
+10mg diazepam in 500ml 0.9%ns in 1h,1
+100% oxyen inhalation,1
+0.18% ns + 4% dextrose + 20mmol kcl,1
+0.25ml im adrenaline,1
+0.25ml iv adrenaline,1
+0.25ml po adrenaline,1
+0.45% ns,1
+0.45% ns + 5% dextrose,1
+0.45% ns + 5% dextrose + 20 mmol kcl,1
+0.45% saline,1
+0.45%ns,1
+0.45%ns + 5%dextrose,1
+0.5% normal saline,1
+0.5% permethrin,1
+0.5ml of 1:1000,1
+0.5ml of 1:10000,1
+0.9% ns,1
+0.9% saline,1
+0.9%ns,1
+0.9%ns + 5%dextrose,1
+1 alpha hydroxylation of vit d,1
+1 single injection dt,1
+1 single injection dtp,1
+1% hydrocortisone ointment,1
+1-2,1
+24h esophageal ph probe test,1
+24h urinary cortisol,1
+absence seizure,1
+a.	2nd person auditory hallucinations,1
+6h postpartum,1
+700,1
+72h postpartum,1
+8th cranial nerves,1
+<1,1
+<15%,1
+>11.1mmol/l,1
+>50%,1
+a combo od anti-thyroid drug an0d thyroxine,1
+a needle-guided biopsy of the breast,1
+a normal 8am cortisol,1
+a.	fundus of the gallbladder,1
+24h urinary protein,1
+a1 antitrypsin def,1
+abdominal binder,1
+abdominal distention,1
+abdominal hysterectomy,1
+abdominal perineal resection,1
+abdominal support,1
+abducens nerve,1
+abductor pollicis longus,1
+abo incompatibility,1
+abortion,1
+abscess,1
+6 months,1
+5ml of 1:1000,1
+5mg hydralazine iv,1
+5% permethrin,1
+25 alpha hydroxylation of vit d,1
+2:3,1
+2g mgso4 in 500ml ns in 1h,1
+3-4,1
+30 breaths: 2 compressions,1
+30-40%,1
+350,1
+3rd person auditory hallucinations,1
+3rd ventricle,1
+4 x weight(kgs) x area of burn = l of fluids,1
+4 x weight(kgs) x area of burn = ml of fluids,1
+4 x weight(lbs) x area of burn = l of fluids,1
+4 x weight(lbs) x area of burn = ml of fluids,1
+4-vessel cerebral angiogram,1
+4.5 x weight(kgs) x area of burn = dl of fluids,1
+40-50%,1
+48h postpartum,1
+4g mgso4 iv bolus,1
+5 compression: 1 breath,1
+5 compression: 2 breaths,1
+5 days postpartum,1
+5% dextrose in 0.5n saline solution,1
+5% dextrose infusion,1
+anatomical defect,1
+aneurysm of sinus of valsalva,1
+brachytherapy,1
+beclomethasone inhaled,1
+bacterial overgrowth,1
+bacteroides fragilis,1
+baker’s cyst,1
+balanitis,1
+band keratopathy,1
+barotrauma,1
+basal body temp estimation,1
+basiliary artery,1
+bb,1
+becker's muscular dystrophy,1
+beclomethasone,1
+bed rest,1
+bereavement,1
+bed rest 2 weeks,1
+behavior training,1
+behavioural therapy,1
+bell’s palsy,1
+below elbow full plaster of paris,1
+below elbow split plaster of paris,1
+beneficence,1
+benign nephrosclerosis,1
+benign parotid,1
+benign structure,1
+benzhexol,1
+bacterial colonization of the urinary tract,1
+baclofen,1
+background retinopathy,1
+b6 deficiency,1
+auditory hallucinations,1
+auer rods,1
+autism,1
+autistic spectrum disorder,1
+autoimmune,1
+autoimmune hepatitis,1
+autonomic neuropathy,1
+autosomal co-dominant,1
+autosomal dominant,1
+autosomal dominant inheritance with anticipation,1
+autosomal dominant with incomplete penetrance,1
+autosomal dominant with variable penetrance,1
+autosomal recessive with incomplete penetrance,1
+av block,1
+availability of vit d precursors,1
+avascular necrosis of scaphoid,1
+avoidant personality disorder,1
+axillary,1
+axillary group of ln,1
+axr,1
+b-cells,1
+b1 deficiency,1
+b2 agonist,1
+benzodiazepam,1
+bereavement counselling,1
+atypical lymphocytes,1
+bone density scan,1
+blood dyscrasia,1
+blood glucose level,1
+blood loss (acute),1
+blood test,1
+bluish grey tympanic membrane with air fluid levels,1
+body dysmorphic disorder,1
+body temp,1
+bolus iv 0.9%ns,1
+bolus of 20u insulin,1
+bone biopsy,1
+bone degeneration,1
+bone marrow aspiration,1
+between 10.0-11.0mmol/l,1
+bone marrow failure,1
+bone mets to cervical vertebrae,1
+booster vaccine,1
+both c and d,1
+bowel ca,1
+bowel cancer,1
+bowel obstruction,1
+bowel rupture,1
+bowens disease,1
+bp monitoring,1
+brachial,1
+blood culture for treponema,1
+blood culture and sensitivity,1
+blasts,1
+bladder wash,1
+between 7.1-11.0mmol/l,1
+between 7.8-11.0mmol/l,1
+between 8.0-10.9mmol/l,1
+bicarbonate iv,1
+biceps jerk – c7 & c8,1
+bilateral exophthalmos,1
+bilateral external laryngeal nerve,1
+bilateral hilar lymphadenopathy,1
+bilateral otitis media with effusion,1
+bilateral recurrent laryngeal nerve,1
+bilateral recurrent laryngeal nerve injury,1
+bilateral renal artery stenosis,1
+biliary infection,1
+biliary peritonitis,1
+binasal hemianopia,1
+binge eating disorder,1
+biofeedback-assisted behavioral,1
+biopsy for malignant melanoma,1
+biopsy for pyoderma,1
+biopsy lesion,1
+bisacodyl tablets,1
+bladder calculi,1
+bladder carcinoma,1
+auditory canal,1
+atypical face pain,1
+angina,1
+antibiotic iv,1
+anti-endomysial antiboides,1
+anti-epileptic,1
+anti-fibrinolytics,1
+anti-hsv antibodies,1
+anti-htn,1
+anti-phospholipid screen,1
+anti-prostoglandins,1
+anti-psychotic,1
+anti-streptolysin,1
+antibiotic drop with steroid,1
+antibiotic drops,1
+antibiotic therapy iv,1
+aortic rupture,1
+anticholinergic agents,1
+anticoagulant & heparin,1
+antifibrinolytics (tranexamic acid),1
+antihistamine iv,1
+antimotility,1
+antineutrophil cytoplasmic antibody,1
+antipyretics,1
+antisocial,1
+antisocial behavior disorder,1
+antisocial personality disorder,1
+aortic,1
+anti-endomysial antibodies,1
+anti-emetic,1
+anti sm,1
+anti scl70,1
+angina pectoris,1
+angiodysplasia,1
+angioedema,1
+angiogram,1
+angiotensin 2 receptor blockers,1
+angulated fx,1
+angulated supracondylar fx,1
+aniline,1
+ankle fx,1
+ankle jerk – l5,1
+ankle sprain,1
+anorexia,1
+anorgasm,1
+anosognosia,1
+ant chamber,1
+ant communicating artery,1
+ant cruciate,1
+ant meningeal artery,1
+anterior pararenal space,1
+anteroposterior & lateral neck x-ray,1
+anti centromere antibodies,1
+anti dna antibodies,1
+anti nuclear antibodies,1
+aortic aneurysm,1
+aorto iliac,1
+attic perforation,1
+aspirin and heparin,1
+aspiration,1
+aspiration due to confusion,1
+aspiration of food,1
+aspiration pneumonia,1
+aspirin & heparin,1
+aspirin & warfarin,1
+aspirin 300mg,1
+aspirin 300mg for 2 weeks,1
+aspirin 300mg for 2 weeks followed by aspirin 75mg,1
+aspirin 300mg for 2 weeks followed by aspirin 75mg and dipyridamole 200mg,1
+aspirin 75mg,1
+assess gcs,1
+aorto-pulmonary septal defect,1
+assess his mental capacity to refuse tx,1
+assessment,1
+assessment for long term o2 therapy,1
+asthma (acute),1
+ateriography,1
+atopic dermatitis,1
+atopic rhinitis,1
+atrial myxoma,1
+atrophic gastritic,1
+atrophic vaginitis,1
+atropine,1
+aspergillosis,1
+asperger syndrome,1
+asom,1
+asherman syndrome,1
+aortoiliac artery,1
+apex beat,1
+aphasia,1
+aphonia,1
+aphthous ulcer,1
+apical granuloma,1
+apnea,1
+apomorphine,1
+applanation tonometry,1
+apply steroid then emollient,1
+apraxia,1
+aqueous cream,1
+arm sling for 1 wk,1
+arrange psychiatric outpatient follow-up,1
+arterial embolus,1
+arterial rupture,1
+arteriography,1
+arteriovenous malformation,1
+arthritis,1
+aryepiglottic space,1
+arzygos vein,1
+asbestos,1
+ascites,1
+e.coli,1
+early morning growth hormone,1
+monitor for 24h,1
+iv fluids calculated from the time of burn,1
+iv ceftriaxone 2g with doxycycline 500mg,1
+iv chlorphearamine,1
+iv chlorpheniramin,1
+iv dextrose stat,1
+iv feeding,1
+iv fentanyl,1
+iv feso4,1
+iv flucloxacillin,1
+iv fluid stat,1
+iv fluids 0.9% ns crystalloids to bring sbp to 120mmhg,1
+iv fluids 0.9% ns crystalloids to bring sbp to 90mmhg,1
+iv fluids calculated from the time of hospital arrival,1
+iv midazolam,1
+iv fluids; ct brain scan,1
+iv fluids; iv antibiotic,1
+iv fluids; lp,1
+iv fuilds,1
+0.05ml of 1:100,1
+iv insulin and dextrose,1
+iv insulin w/ dextrose,1
+iv kcl,1
+iv lorezepam,1
+iv magnesium sulphate,1
+iv mannitol,1
+iv ceftriaxone 2g with doxycycline 100mg,1
+iv cefotaxime,1
+iv calcium chloride,1
+iv bisphosphonates,1
+it can be spread by a droplet infection,1
+it causes an early miscarriage,1
+it causes itchiness in the skin even where there is no obvious lesion to be seen,1
+it causes local enzymatic reaction,1
+it helps in preventing or delaying ovulation,1
+it helps to prevent implantation,1
+it is caused by staphylococcus aureus,1
+it releases progesterone and stops ovulation,1
+iu insemination,1
+iu system (mirena),1
+iu/systemic progesterone,1
+ius progestrogens (mirena),1
+iv,1
+iv 0.9% ns,1
+iv acyclovir,1
+iv alfentanil,1
+iv aminophylline,1
+iv antibiotic; ct brain scan,1
+iv antibiotic; lp,1
+iv antibiotics and analgesics,1
+iv antibiotics and drainage,1
+iv antihistamine,1
+iv benzylpenicillin,1
+iv mgso4,1
+iv morphine and immediate ophthalmoscopy,1
+isospora belli,1
+kub,1
+kidney trauma,1
+kinesthetic,1
+kleihauer betke test,1
+kleiuber test,1
+kleptomania,1
+klinefeltner’s syndrome,1
+knee dislocation,1
+knee jerk – l3 & l4,1
+korsakoffs psychosis,1
+korsakoff’s psychosis,1
+krukenburg tumor,1
+kub us,1
+iv n-acetylcysteine,1
+kub xr,1
+labetalol,1
+labetolol,1
+labour,1
+labrynthitis,1
+labyrinthitis,1
+labyrinthytis (acute),1
+lack of gastric acidity,1
+lactated ringer's injection,1
+lactulose,1
+lactulose syrup,1
+keratoconus,1
+keratoacanthoma,1
+kerathoacanthoma,1
+kemerovo,1
+iv ns,1
+iv ns 0.9%,1
+iv ns and monitor vital signs,1
+iv ondansetron,1
+iv rantidine,1
+iv saline,1
+iv steroid,1
+iv syntocin drip,1
+iv syntocinon drip,1
+iv testosterone,1
+ivc obstruction,1
+ix dextrose,1
+jejunal villous atrophy,1
+joint aspiration,1
+joint aspiration for cytology and culture and sensitivity,1
+joint aspiration for negative birefrengent crystals,1
+joint aspiration for positive birefrengent crystals,1
+joint fluid uric acid crystals,1
+judgement,1
+justice,1
+juvenile rheumatoid arthritis,1
+kawasaki,1
+keep him laid flat,1
+it can 100% dx antenatally,1
+isolate the child from parents and siblings at home,1
+lacunar stroke,1
+inhaled sodium cromoglycate,1
+infiltration of the malignant skin cells to the breast tissue,1
+inflamed tympanic membrane with cart wheel appearance of vessels,1
+inflammation of keratinocytes,1
+inflammatory cells releasing cytokines,1
+infliximab,1
+inform child protection services,1
+inguinal ligament,1
+inhaled long acting,1
+inhaled saba,1
+inhaled salbutamol,1
+inhaled short acting,1
+inherited as autosomal dominant condition,1
+instrumental delivery,1
+inherited as sex-linked dominant condition,1
+inherited as sex-linked recessive condition,1
+inpatient referral to psychiatrist,1
+inpatient referral to psychologist,1
+insect bite,1
+insert a needle in the 2nd ics in the mid-clavicular line,1
+insert a needle in the 5th ics in the mid-axillary line,1
+insert ngt for intestinal decompression,1
+insertion of nasogastric tube,1
+insight,1
+insight into problem,1
+infiltration of the lymphatics by the carcinomatous cells,1
+infective tonsillitis,1
+infectious mononucleosis,1
+infectious lymphocytosis,1
+increase morphine dose,1
+increase slow release morphine dose,1
+increase the dose,1
+increase warfarin dose e. add heparin,1
+increased catabolism,1
+increased incidence of endometrial carcinoma,1
+increased level of calcitonin,1
+increased metabolic rate,1
+increased qrs interval,1
+increased risk of breast ca,1
+increased risk of osteoporosis,1
+increased risk of ovarian ca,1
+increased rr,1
+increased secretions of acid,1
+index and middle finger compression,1
+index and middle fingertips of one hand,1
+indirect coombs test,1
+indirect inguinal,1
+induction of labour,1
+inevitable miscarriage,1
+infantile spasm,1
+infection with microsporum canis,1
+infection with trichophyton tonsurans,1
+instill olive oil,1
+insulin and acei,1
+isolate pt,1
+intubation under general anaesthesia,1
+intracranial hemorrhage,1
+intracranial htn,1
+intraocular pressure,1
+intraperitoneal hemorrhage,1
+intrauterine growth restriction,1
+intrinsic factor def,1
+intrinsic factor deficiency affects oral b12 utilization,1
+intubate and ventilate,1
+intubate the pt,1
+intubation of airway,1
+intubation under ga,1
+intussusception,1
+insulin iv,1
+inv and postpone the surgery,1
+ipratropium bromide,1
+iron,1
+iron dextran,1
+irradiation,1
+irregularly irregular pulse suggesting a-fib,1
+irritable bowel disease,1
+irritant ingestion,1
+irritated gastric mucosa,1
+is best treated by salicylate emulsion,1
+ischemic colitis,1
+intracerebral hematoma,1
+intracerebellar hemorrhage,1
+intra-ductal papilloma,1
+intra-abdominal malignancy,1
+insulin long acting,1
+insulin resistance,1
+insulin sc,1
+insulin subcutaneously,1
+insulin tolerance test,1
+intavenous fluid,1
+intercostal artery,1
+intercostal recession,1
+interferons,1
+intermittent catheterization,1
+internal capsule,1
+internal carotid artery,1
+internal iliac,1
+internal oblique and transverse abdominal,1
+internal rotation,1
+internal sphincterotomy,1
+internal thoracic artery,1
+interpersonal therapy,1
+interstitial nephritis,1
+intervertebral disc prolapse,1
+intestinal obstruction,1
+intra articular steroid,1
+intra-abdominal bleeding,1
+lacunar infarct,1
+laennec’s cirrhosis,1
+increase dose of inhaled corticosteroid,1
+megakaryocytes,1
+measure of serum testosterone,1
+measurement of varicella igg level,1
+measurement of varicella igm level,1
+mechanical ventilation,1
+meckel’s diverticulum,1
+medial collateral,1
+median,1
+mediastinitis,1
+medical admission,1
+medication,1
+medulla oblongata,1
+megaloblastic anemia,1
+meropenem,1
+mellet finger,1
+membranous nephritis,1
+membranous nephropathy,1
+meniere’s test,1
+meningitis due to meningococcus,1
+meningitis septicemia,1
+meningococcal vaccine for the family,1
+meniscus,1
+menopause,1
+menorrhagia,1
+mental health team,1
+measure of serum gonadotropins,1
+measure iop,1
+mean corpuscular volume,1
+maxillary sinus,1
+lymphangiosarcoma,1
+lymphangitis,1
+lynch syndrome,1
+macrocytes,1
+macrophages,1
+magnesium citrate (orally),1
+magnesium sulphate iv,1
+magnet,1
+maintain iv access and give iv fluids,1
+major depressive disorder,1
+malignant hypertension,1
+malnutrition,1
+mammary abscess,1
+mammography and us,1
+mandible tumor,1
+mantle cell lymphoma,1
+marginal dystropathy,1
+marijuana od,1
+marked depression,1
+mastoiditis,1
+maternal karyotype,1
+maternal serum test,1
+maxillary carcinoma,1
+mental state exam,1
+mesalazine,1
+lyme antibodies,1
+mitral regurge,1
+middle meningeal artery,1
+midline mid-thoracic cord,1
+midstream urine for culture,1
+mild encephalitis,1
+milk alkali syndrome,1
+mini mental state,1
+mini-mental state exam,1
+minimal change nephropathy,1
+missed fracture,1
+missed miscarriage,1
+mitochondrial disorder,1
+mitral valve stenosis,1
+mesangiocapillary,1
+mix emollient & steroid before use,1
+mobitz i heart block,1
+mobitz type 1 block,1
+mobitz type 2 block,1
+mobitz type i 2nd degree heart block,1
+mobitz type ii 2nd degree heart block,1
+mobitz type1 2nd degree heart block,1
+mobitz type1 second degree heart block,1
+molar pregnancy,1
+molluscum,1
+moluscum contagiosum,1
+middle ear,1
+mid-stream urine for culture,1
+mid stream urine for culture,1
+mid meningeal artery,1
+mesenteric cyst,1
+metabolic acidosis (acute),1
+metabolic acidosis (compensated),1
+metabolic alkalosis (acute),1
+metabolic syndrome,1
+metachlorpromide,1
+metaplasia,1
+metastasis,1
+metastatic malignancy,1
+methadone hepatotoxicity has caused acute liver failure,1
+methadone is absorbed faster than naloxone,1
+methadone is eliminated from the body more slowly than naloxone,1
+methyldopa 500mg/8h po,1
+methylene blue,1
+metoclopramide,1
+metronidazole + erythromycin,1
+mexican hat cells,1
+mgso4,1
+mgso4 iv,1
+mgso4 loading dose,1
+mi 2m ago,1
+microcytic hypochromic,1
+microglossia,1
+lyme’s disease,1
+lupus vulgaris,1
+lambert-eaton syndrome,1
+left mid-thoracic cord,1
+left cerebellar hemisphere,1
+left cervical cord,1
+left common iliac artery,1
+left frontal lobe,1
+left hemicolectomy,1
+left internal mammary artery,1
+left lateral medulla,1
+left lower lobe atelectasis,1
+left lumbo-sacral plexus,1
+left main stem (lms) post descending artery,1
+left medial pons,1
+left oculomotor,1
+lies above and lateral to the pubic tubercle,1
+left parietal lobe,1
+left side aspiration (16g),1
+left side drain with a small tube (12f),1
+left sided rcc,1
+left soft palate,1
+legionella pneumonia,1
+leishmaniasis,1
+leomyosarcoma,1
+leptospirosis,1
+leukonychia,1
+leukoplakia,1
+left anterior descending artery,1
+left abducens,1
+lay on the back with feet towards head end,1
+lay on the back with feet towards feet end,1
+lap cholecystectomy,1
+laparotomy and re-suture wound,1
+laparotomy with mesh repair,1
+large bowel obstruction,1
+large bowel perforation,1
+large cell ca,1
+laryngeal candidiasis,1
+laryngeal carcinoma,1
+laryngeal edema,1
+laryngeal obstruction by medication,1
+laryngitis,1
+laryngocele,1
+larynx ca,1
+laser photocoagulation,1
+laser therapy,1
+latent autoimmune diabetes in adults,1
+latent stage,1
+lateral collateral,1
+lateral popliteal,1
+latex,1
+laxative abuse,1
+lay on side,1
+lay on stomach,1
+levonorgestrel intra-uterine system,1
+lies below and lateral to the pubic tubercle,1
+lupus nephritis,1
+low dose dexamethasone suppression test,1
+local sensitive hashing,1
+lofexidine,1
+long saphenous vein,1
+longterm antibiotics,1
+lontophoresis,1
+loop diuretics,1
+lose weight,1
+loss of antithrombin iii,1
+loss of apetite,1
+low calcium diet,1
+low cholesterol diet,1
+low fat diet,1
+lifestyle modifications,1
+low protein diet,1
+low renal tubular threshold,1
+ludwigs angina,1
+lukemia (acute),1
+lumbar,1
+lung,1
+lung abscess,1
+lung fibrosis,1
+lung function test,1
+lung transplant,1
+lungs,1
+local exploration of wound,1
+local exploration of swelling,1
+local exploration,1
+local exam,1
+liliputian visual hallucinations,1
+lilliputian,1
+lilliputian hallucinations,1
+limb ischemia  (chronic),1
+limb ischemia (chronic),1
+limited systemic sclerosis,1
+lingual nerve,1
+lipase,1
+lithium toxicity,1
+liver biopsy,1
+liver cirrhosis,1
+liver disease,1
+liver disease  (chronic),1
+liver enzyme,1
+liver failure (acute on chronic),1
+liver failure (acute),1
+liver rupture,1
+liver transplantation,1
+liver us,1
+ln,1
+ln involvement,1
+lobar consolidation,1
+local antibiotics,1
+increase fluids,1
+increase dose of diuretic,1
+echo de la pense,1
+flexor pollicis longus,1
+filariasis,1
+first part of duodenum,1
+first stage,1
+"first use emollient, then steroid",1
+fistula in ano,1
+flail chest,1
+flamingo pink tympanic membrane,1
+flat affect,1
+flavivirus,1
+flecainide,1
+flexible cystoscopy,1
+flial chest,1
+folate,1
+flucloxacillin po,1
+fluid challenge,1
+fluid replacement,1
+fluid resuscitation and antibiotics iv,1
+fluids and alpha blockers,1
+fluids po,1
+fluids via ngt,1
+flumazenil,1
+flupenthixol,1
+fluphenazine,1
+fluticasone + salbutamol inhaled,1
+fibrosarcoma,1
+fibroma,1
+fibroid resection,1
+fibrocystic dysplasia,1
+fasciotomy,1
+fascitis,1
+fasting blood glucose conc,1
+fasting blood sugar,1
+fasting serum glucose conc,1
+fat embolism,1
+fatty liver (acute),1
+fatty necrosis of breast,1
+fatty/lipid degeneration,1
+feacal incontinence,1
+fecal-oral,1
+feed test,1
+feeds via ngt,1
+femoral,1
+femoral artery pulse felt,1
+femoro-popliteal artery,1
+femoropopliteal,1
+fentanyl,1
+fentanyl patches,1
+ferrous sulphate,1
+ferrous sulphate 200mg/d po,1
+fetal cardiotocography,1
+fiber diet,1
+focal segmental glomerulosclerosis,1
+folate supplement,1
+family counselling,1
+gastric tb,1
+fx of shaft of femur,1
+fx radial head,1
+fx shaft of humerus,1
+g6pd enzyme assay,1
+gall bladder cancer,1
+gallstone ileus,1
+ganadrotropin-releasing hormone analogues,1
+gangrene,1
+garden spade deformi,1
+gardenella only,1
+gastric dilatation (acute),1
+gastrinoma,1
+folie a deux,1
+gastrochiasis,1
+gastroesophageal reflux disorder,1
+gastrostomy,1
+gaucher's disease,1
+ge,1
+gedankenlautwerden,1
+gellhorn pessary,1
+general anesthesia,1
+generalized tonic-clonic,1
+gentamicin patch on the round window,1
+gentamicin po,1
+fx of neck of femur,1
+fx nose,1
+fx neck of humerus,1
+fx mid ulnar,1
+follicle-stimulating hormone,1
+follow up in fx clinic,1
+follow up in pediatric opd,1
+follow up with gp,1
+foreign body aspiration,1
+fork test,1
+four years,1
+fournier’s gangrene,1
+fourteen year,1
+fractured ribs,1
+freidriech’s ataxia,1
+frey’s syndrome,1
+frontal cortex,1
+frontal lobe,1
+full arm cast,1
+full course of dtp,1
+full course of hepatitis b vaccine,1
+full course of tetanus vaccine only,1
+functional dysphonia/vocal cords,1
+functional hearing loss,1
+fundus of the gallbladder,1
+fx,1
+fx mid radius,1
+family hx,1
+familial hyperaldosteronism,1
+gestational diabetes mellitus,1
+epiphyseal fx,1
+endomysial antibodies,1
+endoscopy with biopsy,1
+endotracheal intubation,1
+ensure donor is adequately hydrated and has not skipped a meal,1
+entonox,1
+epidermolysis bullosa,1
+epidural hematoma,1
+epidural hemorrhage,1
+epidural space,1
+epiglottitis (acute),1
+epinephrine im,1
+episcleritis,1
+esophageal biopsy,1
+episiotomy,1
+epitrochlear ln,1
+epulis fissuratum,1
+erect cxr,1
+erect xr abdomen,1
+erythema gangernosum,1
+erythema multiforme,1
+erythrocytes,1
+erythropoietin,1
+escharectomy,1
+escherichia coli (gram -ve),1
+endometritiosis,1
+endometrial sampling,1
+endometrial polyp,1
+endocervical sample,1
+echolalia,1
+echopraxia,1
+eclampsia,1
+ecstasy/mdma/amphetamine,1
+ectopic adrenocorticotropic hormone,1
+elasticated support bandage,1
+elective herniotomy + orchidopexy,1
+elevate in high sling for 2d,1
+elevated creatinine kinase,1
+elevating the donor's legs as this is usually due to a vasovagal syncope,1
+emboli,1
+emergency exploratory laparotomy,1
+emergency herniotomy,1
+emergency herniotomy + orchidopexy,1
+emergency laparotomy,1
+emollient,1
+emollient at night with steroid,1
+emotional liability,1
+emphysema,1
+empyema,1
+enapril (acei),1
+encephalopathy,1
+endocarditis,1
+esophageal atresia,1
+esophageal ca,1
+false –ve,1
+external hemorrhoids,1
+excision biopsy,1
+excision biopsy of the breast,1
+exercise challenge,1
+exomphalos,1
+exotosis,1
+explain this physiologic hemodynamic anemia,1
+explore again,1
+exposure to coal mine,1
+extensor carpi radialis,1
+extensor retinaculum,1
+external and internal oblique muscles,1
+external oblique aponeurosis,1
+esophageal candidiasis,1
+extracampine visual hallucinations,1
+extradural,1
+eye sight,1
+facial nerve block,1
+facial nerve palsy,1
+factitious,1
+factor v leiden,1
+failure of alpha chain production,1
+failure of beta chain production,1
+failure to suppress morning cortisol with dexamethasone,1
+false +ve,1
+excision and biopsy,1
+exchange transfusion,1
+excessive k+,1
+excess vit d loss in urine,1
+esophageal manometry,1
+esophageal rupture,1
+esophageal stricture,1
+esophageal web,1
+esophagitis,1
+esr up by 4x,1
+essential thrombocythemia,1
+establish if pt has a prv mental illness,1
+estradiol,1
+estrogen,1
+estrogen gel,1
+ethanol,1
+ethmoid sinus,1
+ethosuximide,1
+etonogestrol,1
+evaluate pt’s capacity to refuse tx,1
+evening primrose,1
+exam under anesthesia,1
+exam under ga,1
+examine throat,1
+excess colloid,1
+excess dextrose,1
+excess of mature lymphocytes,1
+gentamicin topical,1
+gestational htn,1
+increase dose of aspirin to 300mg,1
+htn requiring >2 antihypertensive agents,1
+hippocampus,1
+hirschsprung disease,1
+histamine,1
+histrionic personality disorder,1
+hiv disease,1
+hla b27,1
+hoarseness,1
+honk,1
+hook,1
+hr >90bpm,1
+hsv antibodies,1
+human ig and full course of tetanus vaccine,1
+hyperprolactinemia,1
+human ig and tt,1
+human ig only,1
+hx of anxiety,1
+hydatidiform mole,1
+hydrogen breath test,1
+hyper-acute liver failure,1
+hyperbaric oxygen in a hyperbaric chamber,1
+hyperemesis gravidarum,1
+hyperglycemia,1
+hypermetropia,1
+hyperoxaluria,1
+hippocampal hallucinations,1
+high vaginal,1
+"high serum na, low serum osmolarity, low urine osmolarity",1
+high potent vitamins,1
+hepatitis (chronic),1
+hepatitis b immunoglobulin alone,1
+hepatitis b vaccine and hepatitis b immunoglobulin,1
+hepatitis b vaccine as single dose,1
+hepatocellular carcinoma,1
+hepatorenal puch,1
+hepatorenal syndrome,1
+her age,1
+hereditary sideroblastic anemia,1
+herniotomy,1
+heroin od,1
+herpes gladiatorum,1
+herpes simplex encephalitis,1
+herpes simplex infection,1
+hgb,1
+hgb 12g/dl,1
+hgb ss disease,1
+high dose dexamethasone suppression test,1
+high dose steroid,1
+high estrogen levels,1
+high fat diet,1
+high fiber diet,1
+high mood,1
+hyperplasia,1
+hypersegmented neutrophils,1
+hepatic vein thrombosis,1
+immediate start of the tx with anti-tb drugs,1
+iliohypogastric nerve,1
+im b12 acts faster,1
+im b12 is absorbed more,1
+im b12 needs lower dosage,1
+im diamorphine,1
+im dihydrocodeine,1
+immediate c-section,1
+immediate delivery,1
+immediate laparoscopy.,1
+immediate laparotomy,1
+immediate laparotomy.,1
+immediate surgical referral,1
+hypersensitivity reaction,1
+immobility,1
+immobilization with cast,1
+immunosuppression,1
+impacted ear wax,1
+impaired fasting glucose,1
+impaired growth hormone response to glucose loading,1
+impaired venous drainage,1
+implanon,1
+inability to manufacture heme,1
+inadequate breast milk,1
+incomplete miscarriage,1
+iliac,1
+igg tissue transglutaminase,1
+ig and vaccine,1
+ig + vaccine,1
+hypertension (chronic),1
+hypertensive renal disease,1
+hypertrophiv obstructive cardiomyopathy,1
+hypnogogic,1
+hypnopompic,1
+hypnopompic hallucinations,1
+hypochondriacal,1
+"hypochromic, microcytic rbc",1
+hypomagnesemia,1
+hypomagnesium,1
+hyponogogic hallucinations,1
+hypopharyngeal ca,1
+hypopituitarism,1
+hypothalamus,1
+hysteroscopic myomectomy,1
+hysteroscopic resection of fibroids,1
+hysteroscopic/laser resection of fibroids,1
+hysteroscopy myomectomy,1
+i&d with antibiotics,1
+ice cream and cold fluid,1
+idiopathic hypersomnia,1
+idiopathic parkinson’s disease,1
+ifn gamma testing,1
+hepatitis,1
+heparin only,1
+get letter signed from the gp,1
+"gonorrhea, gardenella",1
+give varicella ig,1
+give varicella vaccination,1
+glandular fever,1
+globus hystericus,1
+glomerulonephritis (chronic),1
+glomerulonephropathy,1
+glucose tolerance test,1
+glue ear,1
+glycogen storage disease,1
+glycosylated hemoglobin - hba1c,1
+gonococcal cervicitis,1
+gown and mask,1
+green stick fx of distal radius,1
+gp,1
+gp to sort out family issues,1
+graft vs host disease,1
+gram negative diplococci,1
+gram positive diplococcic,1
+gram –ve cocci,1
+gram –ve diplococcic,1
+grand mal,1
+grandiosity,1
+granulocyte colony-stimulating factor,1
+granulocytes wthout blast cells,1
+give tt only,1
+give strong analgesic,1
+give statin+warfarin,1
+give statin,1
+get letter signed from the pt,1
+get letter signed from the wife,1
+gi hemorrhage,1
+giardiasis,1
+gibbus,1
+give 0.25ml in 1000u epinephrine im,1
+give 100% oxygen,1
+give 10mg chlorphearamine im,1
+give 50ml hydrocortisone im,1
+give all vaccines except bcg vaccine,1
+give all vaccines except live attenuated vaccines,1
+give analgesia,1
+give analgesic,1
+give antibiotics,1
+give complete dpt vaccine course,1
+give dpt and tetanus ig,1
+give dpt only,1
+give insulin and saline pre-op,1
+give insulin as usual pre-op,1
+give iv insulin + dextrose + saline pre-op,1
+give n-acetylcysteine,1
+give only bcg vaccine,1
+give oxygen,1
+green stick fx,1
+grh analogues,1
+hep c & thalassemia,1
+hemlich maneuver,1
+heart block,1
+heart failure,1
+heart failure (acute),1
+heart failure (chronic),1
+heel of both hand,1
+heel of one hand,1
+heel prick test,1
+heel-shin test,1
+helmet shaped cell,1
+hemangioma,1
+hematoma (acute),1
+hemodialysis urgent,1
+grieving,1
+hemodilution,1
+hemolysis,1
+hemophilus,1
+hemopneumothorax,1
+hemosiderosis,1
+hep a & c,1
+hep b full vaccine and ig,1
+hep b ig only,1
+hep b vaccine once and ig,1
+hep b vaccine only once,1
+hep c & e,1
+hearing test,1
+headache and dizziness,1
+head xr,1
+head trauma,1
+guillain-barre syndrome,1
+guillian-barre,1
+gun-stock deformity,1
+gutenbergers test,1
+h. pylori infection,1
+h. pylori test,1
+h.pylori breath test,1
+h2 blocker,1
+haemoglobin of the donor meets the minimum requirement for donation,1
+haemophilia,1
+haemophilus influenza,1
+hairline fx of the spine,1
+hairy cell leukemia,1
+haloperido,1
+hand over to social worker,1
+hcg measurements,1
+he has also taken another substance apart from methadone,1
+he will have brain abscess,1
+he will have encephalitis,1
+he will have hearing impairment,1
+he will recover fully to his prv health,1
+head of radius,1
+head roll test,1
+zinc deficiency,1
