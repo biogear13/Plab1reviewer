@@ -11,7 +11,7 @@ def random_question(df):
         answered['answered'] = []
         answered['correct'] = []
         answered['wrong'] = []
-    random_number = random.randint(0,len(df))
+    random_number = random.randint(0,len(df)-1)
     while answered.loc[random_number,'answered'] == 1:
         random_number = random.randint(0,len(df))
     print(f'Index is {random_number}')
@@ -61,6 +61,11 @@ while stop == 0:
     self_check=random_question(working_df)
     if self_check=='y':
         correct_answer+=1
+    answered = pd.read_csv('answered.csv')
+    if answered['answered'].isnull().sum()==len(answered):
+        print('You have finished all the questions in this round.')
+        stop=1
+        break        
     s = input('Do you want to continue? (y/n): ').lower()
     if s=='n':
         stop=1
